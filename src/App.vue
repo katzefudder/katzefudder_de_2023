@@ -208,7 +208,7 @@
                 </li>
                 <li>
                   <a href="https://www.behance.net/floriandehn" target="_blank">
-                    <font-awesome-icon icon="fa-brands fa-twitter" />
+                    <font-awesome-icon icon="fa-brands fa-behance" />
                   </a>
                 </li>
               </ul>
