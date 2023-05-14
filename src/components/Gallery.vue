@@ -3,17 +3,20 @@
     <div class="col-md-12">
       <h3>Selected Photos</h3>
       <div :id="galleryID">
-        <a
-            v-for="(image, key) in photos"
-            :key="key"
-            :href="image.largeURL"
-            :data-pswp-width="image.width"
-            :data-pswp-height="image.height"
-            target="_blank"
-            rel="noreferrer"
-        >
-          <img class="zoom" :src="image.thumbnailURL" alt="" />
-        </a>
+        <span v-for="(image, key) in photos">
+          <a
+              :key="key"
+              :href="image.largeURL"
+              :data-pswp-width="image.width"
+              :data-pswp-height="image.height"
+              :alt="image.alt"
+              target="_blank"
+              rel="noreferrer"
+          >
+            <span class="hidden-caption-content">{{image.alt}}</span>
+            <img class="zoom" :src="image.thumbnailURL" alt="" />
+          </a>
+        </span>
       </div>
     </div>
   </div>
@@ -36,6 +39,30 @@
     </div>
   </div>
 </template>
+
+<style>
+.pswp__custom-caption {
+  background: rgba(162, 164, 162, 0.75);
+  font-size: 16px;
+  color: #fff;
+  width: calc(100% - 32px);
+  max-width: 400px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  position: absolute;
+  left: 50%;
+  text-align: center;
+  bottom: 16px;
+  transform: translateX(-50%);
+}
+.pswp__custom-caption a {
+  color: #fff;
+  text-decoration: underline;
+}
+.hidden-caption-content {
+  display: none;
+}
+</style>
 
 <script>
 import PhotoSwipeLightbox from 'photoswipe/lightbox';
@@ -65,13 +92,41 @@ export default {
   }),
   mounted() {
     this.photos = this.showFlickrGallery()
+    const options = {
+      gallery: '#' + this.galleryID,
+      children:'a',
+      pswpModule: () => import('photoswipe'),
+    };
     if (!this.lightbox) {
-      this.lightbox = new PhotoSwipeLightbox({
-        gallery: '#' + this.galleryID,
-        children: 'a',
-        pswpModule: () => import('photoswipe'),
+      const lightbox = new PhotoSwipeLightbox(options);
+      lightbox.on('uiRegister', function() {
+        lightbox.pswp.ui.registerElement({
+          name: 'custom-caption',
+          order: 9,
+          isButton: false,
+          appendTo: 'root',
+          html: 'Caption text',
+          onInit: (el, pswp) => {
+            lightbox.pswp.on('change', () => {
+              const currSlideElement = lightbox.pswp.currSlide.data.element;
+              let captionHTML = '';
+              if (currSlideElement) {
+                const hiddenCaption = currSlideElement.querySelector('.hidden-caption-content');
+                if (hiddenCaption) {
+                  // get caption from element with class hidden-caption-content
+                  captionHTML = hiddenCaption.innerHTML;
+                } else {
+                  // get caption from alt attribute
+                  captionHTML = currSlideElement.querySelector('img').getAttribute('alt');
+                }
+              }
+              el.innerHTML = captionHTML || '';
+            });
+          }
+        });
       });
-      this.lightbox.init();
+      lightbox.init();
+      this.lightbox = lightbox
     }
   },
   unmounted() {
@@ -99,7 +154,7 @@ export default {
             "largeURL": current.url_l,
             "thumbnailURL": current.url_m,
             "title": current.title,
-            //"alt": current.title,
+            "alt": current.title,
             "width": current.width_l,
             "height": current.height_l
           }
