@@ -26,19 +26,21 @@
       <div class="row">
         <div class="section-title">
           <h2>Professional Summary</h2>
-          <p>
-            Florian Dehn is a highly skilled and experienced software engineer with expertise in a wide range of programming languages and platforms,
-            including PHP, Python, Go and JavaScript.
-            He is an expert in software architecture, design patterns, and agile methodologies, enabling him to develop and deliver high-quality software products.
-          </p>
-          <p>
-            In addition to his software engineering skills, Florian is also an accomplished photographer with a passion for capturing striking and evocative images. He has extensive experience in sports, portrait, and landscape photography.
-          </p>
-          <p>
-            With his broad skillset and experience, Florian is well-equipped to take on any software engineering or photography project and deliver outstanding results.
-            His expertise in software development and photography, combined with his ability to effectively communicate technical concepts to non-technical stakeholders, make him a valuable asset to any team.
-          </p>
-          <p>© by ChatGPT</p>
+          <span class="summary">
+            <p>
+              Florian Dehn is a highly skilled and experienced software engineer with expertise in a wide range of programming languages and platforms,
+              including PHP, Python, Go and JavaScript.
+              He is an expert in software architecture, design patterns, and agile methodologies, enabling him to develop and deliver high-quality software products.
+            </p>
+            <p>
+              In addition to his software engineering skills, Florian is also an accomplished photographer with a passion for capturing striking and evocative images. He has extensive experience in sports, portrait, and landscape photography.
+            </p>
+            <p>
+              With his broad skillset and experience, Florian is well-equipped to take on any software engineering or photography project and deliver outstanding results.
+              His expertise in software development and photography, combined with his ability to effectively communicate technical concepts to non-technical stakeholders, make him a valuable asset to any team.
+            </p>
+            <p>© by ChatGPT</p>
+          </span>
         </div>
       </div>
         <JobItem

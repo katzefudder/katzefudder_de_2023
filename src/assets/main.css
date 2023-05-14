@@ -40,6 +40,12 @@ h5 {
     font-weight: 700;
     line-height: 20px;
 }
+.summary p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #888;
+}
 p {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
