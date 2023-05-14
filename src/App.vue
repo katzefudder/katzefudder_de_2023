@@ -205,6 +205,11 @@
                     <i class="fa fa-instagram"></i>
                   </a>
                 </li>
+                <li>
+                  <a href="https://www.behance.net/floriandehn" target="_blank">
+                    <i class="fa fa-behance"></i>
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
