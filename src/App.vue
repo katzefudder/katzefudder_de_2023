@@ -184,30 +184,31 @@
               </ul>
             </div>
             <div class="social">
+              <p>Find me on:</p>
               <ul>
                 <li>
                   <a href="https://twitter.com/katzefudder" target="_blank">
-                    <i class="fa fa-twitter"></i>
+                    <font-awesome-icon icon="fa-brands fa-twitter" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.flickr.com/photos/katzenfutter/" target="_blank">
-                    <i class="fa fa-flickr"></i>
+                    <font-awesome-icon icon="fa-brands fa-flickr" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/in/floriandehn/" target="_blank">
-                    <i class="fa fa-linkedin"></i>
+                    <font-awesome-icon icon="fa-brands fa-linkedin" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.instagram.com/katzefudder/" target="_blank">
-                    <i class="fa fa-instagram"></i>
+                    <font-awesome-icon icon="fa-brands fa-instagram" />
                   </a>
                 </li>
                 <li>
                   <a href="https://www.behance.net/floriandehn" target="_blank">
-                    <i class="fa fa-behance"></i>
+                    <font-awesome-icon icon="fa-brands fa-twitter" />
                   </a>
                 </li>
               </ul>
@@ -241,9 +242,6 @@
   </div>
 </template>
 
-<style lang="scss">
-  @import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
-</style>
 
 <script>
 import SimpleGallery from '@/components/Gallery.vue';
