@@ -178,8 +178,14 @@
                     <li><a href="https://www.del-2.org/nachrichten/del2/6358-naechstes_hessen-derby_steigt.html" target="_blank">Nächstes Hessen-Derby steigt…</a></li>
                     <li><a href="https://www.del-2.org/nachrichten/del2/6449-auf_in_den_34_spieltag/" target="_blank">Auf in den 34. Spieltag</a></li>
                     <li><a href="https://www.del-2.org/nachrichten/del2/6518-kenney_morrison_spielt_weiterhin_im_falken-trikot/" target="_blank">Kenney Morrison spielt weiterhin im Falken-Trikot</a></li>
+                    <li><a href="https://www.del-2.org/news/weitere-vertragsverlangerung-in-bad-nauheim_7657" target="_blank">Weitere Vertragsverlängerung in Bad Nauheim</a></li>
+                  </ul>
+                </li>
+                <li>
+                  Other sources
+                  <ul>
                     <li><a href="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/" target="_blank">Simon Thiel erleidet Schädelhirntrauma</a></li>
-                    <li><a href="https://www.esvk.de/news/maximilian-meier-steht-weiter-im-kasten.html" target="_blank">Maximilian Meier steht weiter im Kasten</a></li>
+                    <li><a href="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/" target="_blank">Philipp Wachter trägt das Trikot der Wölfe</a></li>
                   </ul>
                 </li>
                 <li><a href="https://hausberghexe.de/workshops/" target="_blank">Conni Dietrich, Hausberghexe</a> uses some of my photographs</li>
