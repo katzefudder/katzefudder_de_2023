@@ -186,6 +186,7 @@
                   <ul>
                     <li><a href="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/" target="_blank">Simon Thiel erleidet Schädelhirntrauma</a></li>
                     <li><a href="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/" target="_blank">Philipp Wachter trägt das Trikot der Wölfe</a></li>
+                    <li><a href="https://www.esvk.de/news/esvk-nimmt-rihards-babulis-unter-vertrag.html" target="_blank">Talentierter Torhüter kommt aus Bad Nauheim in die Wertachstadt</a></li>
                   </ul>
                 </li>
                 <li><a href="https://hausberghexe.de/workshops/" target="_blank">Conni Dietrich, Hausberghexe</a> uses some of my photographs</li>
