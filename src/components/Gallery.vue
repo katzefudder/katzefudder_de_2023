@@ -1,43 +1,47 @@
 <template>
-  <div class="container">
-    <div class="col-md-12">
-      <h3>Selected Photos</h3>
-      <div :id="galleryID">
-        <span v-for="(image, key) in photos">
-          <a
-              :key="key"
-              :href="image.largeURL"
-              :data-pswp-width="image.width"
-              :data-pswp-height="image.height"
-              :alt="image.alt"
-              target="_blank"
-              rel="noreferrer"
-          >
-            <span class="hidden-caption-content">{{image.alt}}</span>
-            <img class="zoom" :src="image.thumbnailURL" alt="" />
-          </a>
-        </span>
+  <!-- Gallery begin -->
+  <div id="photos">
+    <div class="container">
+      <div class="col-md-12">
+        <h3>Selected Photos</h3>
+        <div :id="galleryID">
+          <span v-for="(image, key) in photos">
+            <a
+                :key="key"
+                :href="image.largeURL"
+                :data-pswp-width="image.width"
+                :data-pswp-height="image.height"
+                :alt="image.alt"
+                target="_blank"
+                rel="noreferrer"
+            >
+              <span class="hidden-caption-content">{{image.alt}}</span>
+              <img class="zoom" :src="image.thumbnailURL" alt="" />
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="row" v-if="useNavigation">
+      <div class="col-lg-12">
+        <button
+            class="px-4 py-2 text-white bg-red-600 focus:outline-none"
+            @click="previousPage"
+            @keyup.right="previousPage"
+        >
+          Previous Page
+        </button>
+        <button
+            class="px-4 py-2 text-white bg-red-600 focus:outline-none"
+            @click="nextPage"
+            @keyup.right="nextPage"
+        >
+          Next Page
+        </button>
       </div>
     </div>
   </div>
-  <div class="row" v-if="useNavigation">
-    <div class="col-lg-12">
-      <button
-          class="px-4 py-2 text-white bg-red-600 focus:outline-none"
-          @click="previousPage"
-          @keyup.right="previousPage"
-      >
-        Previous Page
-      </button>
-      <button
-          class="px-4 py-2 text-white bg-red-600 focus:outline-none"
-          @click="nextPage"
-          @keyup.right="nextPage"
-      >
-        Next Page
-      </button>
-    </div>
-  </div>
+  <!-- Gallery end -->
 </template>
 
 <style>

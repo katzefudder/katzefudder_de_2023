@@ -1,4 +1,5 @@
 <template>
+  <!-- Tag Cloud begin -->
   <div id="tagcloud">
     <div class="container">
       <div class="row">
@@ -15,6 +16,7 @@
       </div>
     </div>
   </div>
+  <!-- Tag Cloud end -->
 </template>
 
 <script>

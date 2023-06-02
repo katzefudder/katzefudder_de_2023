@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
+import { createHead } from "@vueuse/head"
 import App from './App.vue'
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -13,8 +14,10 @@ import { faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortaw
 library.add(faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
 
 const pinia = createPinia()
+const head = createHead()
 
 const app = createApp(App)
     .use(pinia)
+    .use(head)
     .component('font-awesome-icon', FontAwesomeIcon)
     .mount('#app')
