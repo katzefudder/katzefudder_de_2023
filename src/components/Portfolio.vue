@@ -25,7 +25,7 @@
       </div>
       <!-- Summary End -->
       <JobItem
-          date="Since March 2023"
+          date="March 2023 - July 2023"
           title="Union Investment - Union IT-Services Gesellschaft mbH"
           link="https://www.union-investment.de"
           position="Freelance position: DevOps"
