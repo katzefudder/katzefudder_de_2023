@@ -29,7 +29,7 @@
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
                 </li>
                 <li>
-                  Photos of the week 21 on heise.de <a href="https://www.heise.de/news/Monochrom-bleibt-zeitlos-schoen-Die-Bilder-der-Woche-KW21-9066607.html">Monochrom bleibt zeitlos schön</a>
+                  Photos of the week 21 on heise.de <a href="https://www.heise.de/news/Monochrom-bleibt-zeitlos-schoen-Die-Bilder-der-Woche-KW21-9066607.html" target="_blank">Monochrom bleibt zeitlos schön</a>
                 </li>
                 <li>
                   Zeiss Career uses one of my photos, taken with the Zeiss Distagon T* 25mm f2.8 ZF.2 on Social Media
