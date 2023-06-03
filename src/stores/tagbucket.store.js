@@ -11,13 +11,11 @@ export const useTagBucketStore = defineStore("tagbucket", {
                 localStorage.setItem('TagBucket', JSON.stringify(this.$state.tags))
                 return true
             } else {
-                //console.log("This item already exists")
                 return false
             }
         },
         has(tag) {
             const isOnList = this.$state.tags.indexOf(tag)
-            console.log("is on list? ", isOnList)
             if (isOnList === -1 ) return false
             return true
         },
