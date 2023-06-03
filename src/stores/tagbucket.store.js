@@ -33,6 +33,13 @@ export const useTagBucketStore = defineStore("tagbucket", {
         },
         getAllTags() {
             return this.$state.tags
+        },
+        takeTags(count) {
+            const tags = [];
+            for(let i=0;i<count; i++) {
+                tags.push(this.$state.tags[i])
+            }
+            return tags;
         }
     },
 });

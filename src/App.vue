@@ -20,6 +20,7 @@ import SiteHeader from "@/components/SiteHeader.vue";
 import Footer from "@/components/Footer.vue";
 import Contact from "@/components/Contact.vue";
 import Portfolio from "@/components/Portfolio.vue";
+import {useTagBucketStore} from "@/stores/tagbucket.store";
 
 import {computed, reactive } from 'vue'
 import { useHead } from '@vueuse/head'
@@ -37,7 +38,8 @@ export default {
   setup() {
     const siteData = reactive({
       title: 'Florian Dehn - Software Engineer & Photographer',
-      description: 'Software Engineer and Photographer from Butzbach, Germany - Software Engineer & Fotograf aus Butzbach'
+      description: 'Software Engineer and Photographer from Butzbach, Germany - Software Engineer & Fotograf aus Butzbach',
+      keywords: useTagBucketStore().takeTags(16).toString()
     })
     useHead({
       // Can be static or computed
@@ -46,6 +48,10 @@ export default {
         {
           name: `description`,
           content: computed(() => siteData.description),
+        },
+        {
+          name: `keywords`,
+          content: computed(() => siteData.keywords)
         },
       ],
 
