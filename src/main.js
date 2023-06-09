@@ -12,9 +12,8 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortawesome/free-brands-svg-icons'
 library.add(faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
-
-import {FlickrGalleryPlugin} from "../../FlickrGallery";
-import '@katzefudder/flickrgallery/dist/style.css';
+import {FlickrGalleryPlugin} from "flickrgallery";
+import "flickrgallery/dist/style.css";
 
 const pinia = createPinia()
 const head = createHead()
