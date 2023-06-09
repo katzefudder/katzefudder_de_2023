@@ -7,14 +7,13 @@
 
   <Contact></Contact>
 
-  <SimpleGallery :useNavigation=false></SimpleGallery>
+  <FlickrGallery title="Selected Photos" user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=false></FlickrGallery>
 
   <Footer></Footer>
 </template>
 
 
 <script>
-import SimpleGallery from '@/components/Gallery.vue';
 import TagCloud from "@/components/TagCloud.vue";
 import SiteHeader from "@/components/SiteHeader.vue";
 import Footer from "@/components/Footer.vue";
@@ -33,7 +32,6 @@ export default {
     Contact,
     Footer,
     TagCloud,
-    SimpleGallery,
   },
   setup() {
     const siteData = reactive({
