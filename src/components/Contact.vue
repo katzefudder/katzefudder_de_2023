@@ -50,6 +50,8 @@
                 <li>
                   Other sources
                   <ul>
+                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html" target="_blank">Wie Marcel Brandt die Fans elektisieren konnte</a></li>
+                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html" target="_blank">EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert</a></li>
                     <li><a href="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/" target="_blank">Simon Thiel erleidet Schädelhirntrauma</a></li>
                     <li><a href="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/" target="_blank">Philipp Wachter trägt das Trikot der Wölfe</a></li>
                     <li><a href="https://www.esvk.de/news/esvk-nimmt-rihards-babulis-unter-vertrag.html" target="_blank">Talentierter Torhüter kommt aus Bad Nauheim in die Wertachstadt</a></li>
