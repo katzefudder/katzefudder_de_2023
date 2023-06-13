@@ -59,7 +59,7 @@ export default {
     })
     useSeoMeta({
       charset: 'utf-8',
-      title: siteData.title,
+      ogTitle: siteData.title,
       description: siteData.description,
       ogImage: "https://www.katzefudder.de" + headerImage,
       ogLocale: 'en',
