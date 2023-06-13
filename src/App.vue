@@ -23,6 +23,9 @@ import {useTagBucketStore} from "@/stores/tagbucket.store";
 
 import {computed, reactive } from 'vue'
 import { useHead } from '@vueuse/head'
+import {useSeoMeta} from "@unhead/vue";
+
+import headerImage from "./assets/sunset.jpg";
 
 export default {
   name: 'katzefudder.de',
@@ -53,6 +56,13 @@ export default {
         },
       ],
 
+    })
+    useSeoMeta({
+      charset: 'utf-8',
+      description: siteData.description,
+      ogImage: headerImage,
+      ogLocale: 'en',
+      ogLocaleAlternate: ['de'],
     })
   }
 };
