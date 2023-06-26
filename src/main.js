@@ -10,8 +10,8 @@ import {createPinia} from "pinia";
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortawesome/free-brands-svg-icons'
-library.add(faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
+import { faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortawesome/free-brands-svg-icons'
+library.add(faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
 import {FlickrGalleryPlugin} from "flickrgallery";
 import "flickrgallery/dist/style.css";
 

@@ -64,6 +64,11 @@
               <p>Find me on:</p>
               <ul>
                 <li>
+                  <a href="https://github.com/katzefudder" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-github" />
+                  </a>
+                </li>
+                <li>
                   <a href="https://www.flickr.com/photos/katzenfutter/" target="_blank">
                     <font-awesome-icon icon="fa-brands fa-flickr" />
                   </a>
