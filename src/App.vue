@@ -7,11 +7,10 @@
 
   <Contact></Contact>
 
-  <FlickrGallery title="Selected Photos" user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=false></FlickrGallery>
+  <FlickrGallery title="Selected Photos" user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
 
   <Footer></Footer>
 </template>
-
 
 <script>
 import TagCloud from "@/components/TagCloud.vue";
