@@ -83,7 +83,7 @@
       <JobItem
           date="September 2017 - January 2020"
           title="Klarna Bank AB"
-          link="https://www.klarna.com/sofort/"
+          link="https://www.klarna.com"
           position="Permanent position: Engineering Manager"
           description="Leading a team of 6, setting up and supporting Klarna's internal Artifact Management Platform"
           :jobTags="['JFrog Artifactory', 'JFrog Xray', 'PostgreSQL', 'People Leadership', 'Scrum', 'Kanban', 'Scrumban', 'DevOps', 'TCP/IP', 'Management', 'GO', 'Python', 'AWS', 'Terraform', 'Ansible', 'Redis', 'Splunk', 'Memcache', 'Packer', 'Serverless', 'Linux', 'Docker', 'Shell', 'Jenkins', 'High-Availability', 'nginx', 'openresty', 'Jira', 'Bitbucket', 'Datadog', 'OpsGenie', 'Prometheus', 'Grafana', 'Graphite']"
