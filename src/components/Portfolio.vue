@@ -85,8 +85,8 @@
           title="Klarna Bank AB"
           link="https://www.klarna.com/sofort/"
           position="Permanent position: Engineering Manager"
-          description="Consulting the company's CIO and the engineering team regarding best practices in Software Development, DevOps Principles and Security"
-          :jobTags="['JFrog Artifactory', 'JFrog Xray', 'PostgreSQL', 'People Leadership', 'Management', 'GO', 'Python', 'AWS', 'Terraform', 'Ansible', 'Redis', 'Splunk', 'Memcache', 'Packer', 'Serverless', 'Linux', 'Docker', 'Shell', 'Jenkins', 'High-Availability', 'nginx', 'openresty', 'Jira', 'Bitbucket', 'Datadog', 'OpsGenie', 'Prometheus', 'Grafana', 'Graphite']"
+          description="Leading a team of 6, setting up and supporting Klarna's internal Artifact Management Platform"
+          :jobTags="['JFrog Artifactory', 'JFrog Xray', 'PostgreSQL', 'People Leadership', 'Scrum', 'Kanban', 'Scrumban', 'DevOps', 'TCP/IP', 'Management', 'GO', 'Python', 'AWS', 'Terraform', 'Ansible', 'Redis', 'Splunk', 'Memcache', 'Packer', 'Serverless', 'Linux', 'Docker', 'Shell', 'Jenkins', 'High-Availability', 'nginx', 'openresty', 'Jira', 'Bitbucket', 'Datadog', 'OpsGenie', 'Prometheus', 'Grafana', 'Graphite']"
       >
       </JobItem>
       <JobItem
@@ -105,6 +105,33 @@
           position="Permanent position: Software Developer TYPO3"
           description="Development and support of large scale websites in a small, but highly motivated team"
           :jobTags="['PHP', 'CakePHP', 'Laravel', 'JavaScript', 'TYPO3', 'Typoscript', 'Apache', 'Vagrant', 'Jenkins', 'Ansible', 'Shell']"
+      >
+      </JobItem>
+      <JobItem
+          date="April 2011 - December 2013"
+          title="SOFORT AG"
+          link="https://www.klarna.com/sofort/"
+          position="Permanent position: Software Developer"
+          description="Software Development PHP, developing plugins for e-commerce systems like Shopware, XT Commerce, Magento"
+          :jobTags="['PHP', 'PHPUnit', 'Apache', 'Linux', 'HTML', 'JavaScript']"
+      >
+      </JobItem>
+      <JobItem
+          date="April 2010 - March 2011"
+          title="Die Interaktiven GmbH & CO. KG"
+          link="https://www.die-interaktiven.de"
+          position="Permanent position: Web Developer"
+          description="Websites, TYPO3"
+          :jobTags="['PHP', 'TYPO3', 'Typoscript', 'Git', 'Apache', 'HTML', 'JavaScript']"
+      >
+      </JobItem>
+      <JobItem
+          date="September 2009 - March 2010"
+          title="icjobs, jobbörse.com"
+          link="http://jobbörse.com"
+          position="Permanent position: Software Developer"
+          description="Software Development PHP"
+          :jobTags="['PHP']"
       >
       </JobItem>
     </div>
