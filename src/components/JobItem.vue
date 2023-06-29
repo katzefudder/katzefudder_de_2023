@@ -42,11 +42,5 @@ export default {
       tagBucket.add(tag)
     })
   },
-  unmounted() {
-
-  },
-  methods: {
-
-  }
 }
 </script>
