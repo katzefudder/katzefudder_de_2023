@@ -11,19 +11,5 @@
 <script>
 export default {
   name: "Footer",
-  props: {
-  },
-  data: () => ({
-
-  }),
-  mounted() {
-
-  },
-  unmounted() {
-
-  },
-  methods: {
-
-  }
 }
 </script>

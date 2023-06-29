@@ -144,19 +144,5 @@ import JobItem from "@/components/JobItem.vue";
 export default {
   name: "Portfolio",
   components: {JobItem},
-  props: {
-  },
-  data: () => ({
-
-  }),
-  mounted() {
-
-  },
-  unmounted() {
-
-  },
-  methods: {
-
-  }
 }
 </script>

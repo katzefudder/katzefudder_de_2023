@@ -25,19 +25,5 @@
 <script>
 export default {
   name: "SiteHeader",
-  props: {
-  },
-  data: () => ({
-
-  }),
-  mounted() {
-
-  },
-  unmounted() {
-
-  },
-  methods: {
-
-  }
 }
 </script>

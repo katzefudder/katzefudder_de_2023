@@ -101,19 +101,5 @@
 <script>
 export default {
   name: "Contact",
-  props: {
-  },
-  data: () => ({
-
-  }),
-  mounted() {
-
-  },
-  unmounted() {
-
-  },
-  methods: {
-
-  }
 }
 </script>
