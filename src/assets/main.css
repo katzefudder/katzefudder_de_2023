@@ -229,6 +229,7 @@ ol.type li a:hover {
 }
 .job-item h3 {
     font-size: 2em;
+    word-wrap: break-word;
 }
 .job-item img {
     display: none;
