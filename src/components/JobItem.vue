@@ -8,7 +8,7 @@
         <p>
           {{ description }}
         </p>
-        <div class="row">
+        <div v-if="jobTags" class="row">
           <div class="col-md-12 tag-cloud">
             <ul>
               <li v-for="(tag) in jobTags"><a href="javascript:void(0);"><span></span>{{tag}}</a></li>

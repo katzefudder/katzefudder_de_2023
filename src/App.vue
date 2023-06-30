@@ -3,11 +3,13 @@
 
   <Portfolio></Portfolio>
 
+  <Education></Education>
+
   <TagCloud></TagCloud>
 
   <Contact></Contact>
 
-  <FlickrGallery title="Selected Photos" user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
+  <FlickrGallery title=" " user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
 
   <Footer></Footer>
 </template>
@@ -25,10 +27,12 @@ import { useHead } from '@vueuse/head'
 import {useSeoMeta} from "@unhead/vue";
 
 import headerImage from "./assets/header_image.jpg";
+import Education from "@/components/Education.vue";
 
 export default {
   name: 'katzefudder.de',
   components: {
+    Education,
     Portfolio,
     SiteHeader,
     Contact,
