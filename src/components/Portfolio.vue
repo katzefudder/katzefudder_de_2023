@@ -29,9 +29,9 @@
           title="Union Investment - Union IT-Services Gesellschaft mbH"
           link="https://www.union-investment.de"
           position="Freelance position: DevOps"
-          description="Creating Pipelines for deploying and maintaining a monolithic PHP application and a React based frontend at scale"
-          :jobTags="['Microsoft Azure', 'Microsoft Azure DevOps', 'Azure App Service', 'Linux', 'Container', 'Kubernetes', 'Terraform', 'Terragrunt', 'Helm', 'nginx',
-               'openresty', 'Software Architecture', 'Totara', 'React']"
+          description="Maintaining a monolithic PHP application and a React based frontend at scale"
+          :jobTags="['Microsoft Azure', 'Microsoft Azure DevOps', 'Azure App Service', 'Azure API Management', 'Azure Storage', 'PHP', 'Jira', 'Linux', 'Container', 'Kubernetes', 'Terraform', 'Terragrunt', 'Helm', 'nginx',
+               'openresty', 'Prometheus', 'Alertmanager', 'Harbor', 'Software Architecture', 'Totara', 'React']"
       >
       </JobItem>
       <JobItem
