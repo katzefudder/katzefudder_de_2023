@@ -50,6 +50,7 @@
                 <li>
                   Other sources
                   <ul>
+                    <li><a href="https://www.fnp.de/sport/lokalsport/verteidiger-marius-erk-man-kann-wieder-mit-uns-rechnen-92394804.html" target="_blank">Verteidiger Marius Erk: »Man kann wieder mit uns rechnen«</a></li>
                     <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html" target="_blank">Wie Marcel Brandt die Fans elektisieren konnte</a></li>
                     <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html" target="_blank">EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert</a></li>
                     <li><a href="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/" target="_blank">Simon Thiel erleidet Schädelhirntrauma</a></li>
