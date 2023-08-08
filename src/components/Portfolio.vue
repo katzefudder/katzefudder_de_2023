@@ -25,6 +25,15 @@
       </div>
       <!-- Summary End -->
       <JobItem
+          date="since August 2023"
+          title="Otto Group"
+          link="https://www.ottogroup.com"
+          position="Permanent position: DevOps"
+          description="Providing DevOps experience and know-how to use AWS' products to build, run and maintain an internal product"
+          :jobTags="['AWS', 'ECS Fargate', 'Cloudwatch', 'Route53' ,'Terraform', 'Grafana']"
+      >
+      </JobItem>
+      <JobItem
           date="March 2023 - July 2023"
           title="Union Investment - Union IT-Services Gesellschaft mbH"
           link="https://www.union-investment.de"
