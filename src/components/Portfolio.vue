@@ -59,7 +59,7 @@
           link="https://www.del-2.org/fotografen/"
           position="Voluntary position: Photographer for EC Bad Nauheim"
           description="Photography at the ice rink: reportage, portraits, action"
-          :jobTags="['Photography', 'Nikon', 'Nikon Z 9', 'Nikon D850', 'Nikon Z 6']"
+          :jobTags="['Photography', 'Nikon', 'Nikon Z 9', 'Nikon D850', 'Nikon Z 6', 'Leica', 'Leica M11']"
       >
       </JobItem>
       <JobItem
