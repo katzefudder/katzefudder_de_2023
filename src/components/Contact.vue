@@ -39,6 +39,7 @@
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <li><a href="https://del-2.org/news/regelanpassungen-fur-den-del2-spielbetrieb_7846" target="_blank">Regelanpassungen für den DEL2-Spielbetrieb</a></li>
                     <li><a href="https://www.del-2.org/news/tobias-worle-beendet-karriere_7419" target="_blank">Tobias Wörle beendet Karriere</a></li>
                     <li><a href="https://www.del-2.org/nachrichten/del2/6569-hessen-derby_zum_samstagabend/" target="_blank">Hessen-Derby zum Samstagabend</a></li>
                     <li><a href="https://www.del-2.org/nachrichten/del2/6358-naechstes_hessen-derby_steigt.html" target="_blank">Nächstes Hessen-Derby steigt…</a></li>
