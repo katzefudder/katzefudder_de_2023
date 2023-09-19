@@ -51,6 +51,7 @@
                 <li>
                   Other sources
                   <ul>
+                    <li><a href="https://www.wetterauer-zeitung.de/sport/lokalsport/ec-bad-nauheim-von-der-euphorie-welle-getragen-92512453.html" target="_blank">EC Bad Nauheim: Von der Euphorie-Welle getragen</a></li>
                     <li><a href="https://ec-bn.de/impressionen-vom-media-day/" target="_blank">EC Bad Nauheim: Impressionen vom Media-Day</a></li>
                     <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-zwischen-flughafen-foto-shooting-und-medizin-check-92447554.html" target="_blank">EC Bad Nauheim: Zwischen Flughafen, Foto-Shooting und Medizin-Check</a></li>
                     <li><a href="https://www.itms.com/de/gesellschaftliches-engagement-erfolgreich-kommunizieren/" target="_blank">ITMS - Gesellschaftliches Engagement erfolgreich kommunizieren</a></li>
