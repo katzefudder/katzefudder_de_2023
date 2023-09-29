@@ -51,6 +51,7 @@
                 <li>
                   Other sources
                   <ul>
+                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/bissiger-galliger-konsequenter-klare-forderung-beim-ec-bad-nauheim-92548022.html" target="_blank">»Bissiger, galliger, konsequenter« - Klare Forderungen beim EC Bad Nauheim</a></li>
                     <li><a href="https://www.la-rundschau.de/sport/68469-del-fuehrt-referee-day-durch-am-1-ok-t-steht-das-heim-spiel-des-evl-im-zei-chen-der-schieds-rich-ter" target="_blank">DEL führt Referee-Day durch</a></li>
                     <li><a href="https://www.wetterauer-zeitung.de/sport/lokalsport/ec-bad-nauheim-von-der-euphorie-welle-getragen-92512453.html" target="_blank">EC Bad Nauheim: Von der Euphorie-Welle getragen</a></li>
                     <li><a href="https://ec-bn.de/impressionen-vom-media-day/" target="_blank">EC Bad Nauheim: Impressionen vom Media-Day</a></li>
