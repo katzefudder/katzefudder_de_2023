@@ -30,7 +30,7 @@
           link="https://www.ottogroup.com"
           position="Permanent position: DevOps"
           description="Providing DevOps experience and know-how to use AWS' products to build, run and maintain an internal product"
-          :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Grafana', 'GitHub Actions', 'Dependabot', 'Python', 'GoCD', 'wiz.io']"
+          :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Grafana', 'GitHub Actions', 'Dependabot', 'Python', 'GoCD', 'wiz.io', 'backstage.io']"
       >
       </JobItem>
       <JobItem
