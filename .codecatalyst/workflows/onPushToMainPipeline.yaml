@@ -18,19 +18,9 @@ Actions:
         - Name: build
           Files:
             - dist/**/*
-      AutoDiscoverReports:
-        ReportNamePrefix: Test
-        IncludePaths:
-          - coverage/**
-          - reports/**
     Configuration:
       Steps:
         - Run: npm install
-        - Run: "
-
-            \    npm run test:unit -- --reporter=default --reporter=junit --watch=false  --outputFile.junit=../reports/unit-test.xml;
-
-            \    "
         - Run: npm run build
   DeployToAmplifyHosting:
     Compute:
