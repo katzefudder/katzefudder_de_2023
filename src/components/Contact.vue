@@ -1,3 +1,12 @@
+<script>
+import Reference from "@/components/Reference.vue";
+
+export default {
+  name: "Contact",
+  components: {Reference},
+}
+</script>
+
 <template>
   <!-- Contact begin -->
   <div id="contact">
@@ -39,35 +48,77 @@
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
-                    <li><a href="https://del-2.org/news/regelanpassungen-fur-den-del2-spielbetrieb_7846" target="_blank">Regelanpassungen für den DEL2-Spielbetrieb</a></li>
-                    <li><a href="https://www.del-2.org/news/tobias-worle-beendet-karriere_7419" target="_blank">Tobias Wörle beendet Karriere</a></li>
-                    <li><a href="https://www.del-2.org/nachrichten/del2/6569-hessen-derby_zum_samstagabend/" target="_blank">Hessen-Derby zum Samstagabend</a></li>
-                    <li><a href="https://www.del-2.org/nachrichten/del2/6358-naechstes_hessen-derby_steigt.html" target="_blank">Nächstes Hessen-Derby steigt…</a></li>
-                    <li><a href="https://www.del-2.org/nachrichten/del2/6449-auf_in_den_34_spieltag/" target="_blank">Auf in den 34. Spieltag</a></li>
-                    <li><a href="https://www.del-2.org/nachrichten/del2/6518-kenney_morrison_spielt_weiterhin_im_falken-trikot/" target="_blank">Kenney Morrison spielt weiterhin im Falken-Trikot</a></li>
-                    <li><a href="https://www.del-2.org/news/weitere-vertragsverlangerung-in-bad-nauheim_7657" target="_blank">Weitere Vertragsverlängerung in Bad Nauheim</a></li>
+                    <Reference link="https://del-2.org/news/regelanpassungen-fur-den-del2-spielbetrieb_7846">
+                      Regelanpassungen für den DEL2-Spielbetrieb
+                    </Reference>
+                    <Reference link="https://www.del-2.org/news/tobias-worle-beendet-karriere_7419">
+                      Tobias Wörle beendet Karriere
+                    </Reference>
+                    <Reference link="https://www.del-2.org/nachrichten/del2/6569-hessen-derby_zum_samstagabend/">
+                      Hessen-Derby zum Samstagabend
+                    </Reference>
+                    <Reference link="https://www.del-2.org/nachrichten/del2/6358-naechstes_hessen-derby_steigt.html">
+                      Nächstes Hessen-Derby steigt…
+                    </Reference>
+                    <Reference link="https://www.del-2.org/nachrichten/del2/6449-auf_in_den_34_spieltag/">
+                      Auf in den 34. Spieltag
+                    </Reference>
+                    <Reference link="https://www.del-2.org/nachrichten/del2/6518-kenney_morrison_spielt_weiterhin_im_falken-trikot/">
+                      Kenney Morrison spielt weiterhin im Falken-Trikot
+                    </Reference>
+                    <Reference link="https://www.del-2.org/news/weitere-vertragsverlangerung-in-bad-nauheim_7657">Weitere Vertragsverlängerung in Bad Nauheim</Reference>
                   </ul>
                 </li>
                 <li>
                   Other sources
                   <ul>
-                    <li><a href="https://www.idowa.de/sport/eishockey/ev-landshut-bleibt-auswaerts-eine-wucht-3472065.html" target="_blank">EV Landshut bleibt auswärts eine Wucht</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/bissiger-galliger-konsequenter-klare-forderung-beim-ec-bad-nauheim-92548022.html" target="_blank">»Bissiger, galliger, konsequenter« - Klare Forderungen beim EC Bad Nauheim</a></li>
-                    <li><a href="https://www.la-rundschau.de/sport/68469-del-fuehrt-referee-day-durch-am-1-ok-t-steht-das-heim-spiel-des-evl-im-zei-chen-der-schieds-rich-ter" target="_blank">DEL führt Referee-Day durch</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/lokalsport/ec-bad-nauheim-von-der-euphorie-welle-getragen-92512453.html" target="_blank">EC Bad Nauheim: Von der Euphorie-Welle getragen</a></li>
-                    <li><a href="https://ec-bn.de/impressionen-vom-media-day/" target="_blank">EC Bad Nauheim: Impressionen vom Media-Day</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-zwischen-flughafen-foto-shooting-und-medizin-check-92447554.html" target="_blank">EC Bad Nauheim: Zwischen Flughafen, Foto-Shooting und Medizin-Check</a></li>
-                    <li><a href="https://www.itms.com/de/gesellschaftliches-engagement-erfolgreich-kommunizieren/" target="_blank">ITMS - Gesellschaftliches Engagement erfolgreich kommunizieren</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-vii-sie-sind-von-anfang-an-dabei-92399586.html" target="_blank">Sommer-Serie (VII): Sie sind von Anfang an dabei</a></li>
-                    <li><a href="https://www.fnp.de/sport/lokalsport/verteidiger-marius-erk-man-kann-wieder-mit-uns-rechnen-92394804.html" target="_blank">Verteidiger Marius Erk: »Man kann wieder mit uns rechnen«</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html" target="_blank">Wie Marcel Brandt die Fans elektisieren konnte</a></li>
-                    <li><a href="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html" target="_blank">EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert</a></li>
-                    <li><a href="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/" target="_blank">Simon Thiel erleidet Schädelhirntrauma</a></li>
-                    <li><a href="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/" target="_blank">Philipp Wachter trägt das Trikot der Wölfe</a></li>
-                    <li><a href="https://www.esvk.de/news/esvk-nimmt-rihards-babulis-unter-vertrag.html" target="_blank">Talentierter Torhüter kommt aus Bad Nauheim in die Wertachstadt</a></li>
+                    <Reference link="https://www.idowa.de/sport/eishockey/ev-landshut-bleibt-auswaerts-eine-wucht-3472065.html">
+                      EV Landshut bleibt auswärts eine Wucht
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/bissiger-galliger-konsequenter-klare-forderung-beim-ec-bad-nauheim-92548022.html">
+                      »Bissiger, galliger, konsequenter« - Klare Forderungen beim EC Bad Nauheim
+                    </Reference>
+                    <Reference link="https://www.la-rundschau.de/sport/68469-del-fuehrt-referee-day-durch-am-1-ok-t-steht-das-heim-spiel-des-evl-im-zei-chen-der-schieds-rich-ter">
+                      DEL führt Referee-Day durch
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/lokalsport/ec-bad-nauheim-von-der-euphorie-welle-getragen-92512453.html">
+                      EC Bad Nauheim: Von der Euphorie-Welle getragen
+                    </Reference>
+                    <Reference link="https://ec-bn.de/impressionen-vom-media-day/">
+                      EC Bad Nauheim: Impressionen vom Media-Day
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-zwischen-flughafen-foto-shooting-und-medizin-check-92447554.html">
+                      EC Bad Nauheim: Zwischen Flughafen, Foto-Shooting und Medizin-Check
+                    </Reference>
+                    <Reference link="https://www.itms.com/de/gesellschaftliches-engagement-erfolgreich-kommunizieren/">
+                      ITMS - Gesellschaftliches Engagement erfolgreich kommunizieren
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-vii-sie-sind-von-anfang-an-dabei-92399586.html">
+                      Sommer-Serie (VII): Sie sind von Anfang an dabei
+                    </Reference>
+                    <Reference link="https://www.fnp.de/sport/lokalsport/verteidiger-marius-erk-man-kann-wieder-mit-uns-rechnen-92394804.html">
+                      Verteidiger Marius Erk: »Man kann wieder mit uns rechnen«
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html">
+                      Wie Marcel Brandt die Fans elektisieren konnte
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html">
+                      EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert
+                    </Reference>
+                    <Reference link="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/">
+                      Simon Thiel erleidet Schädelhirntrauma
+                    </Reference>
+                    <Reference link="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/">
+                      Philipp Wachter trägt das Trikot der Wölfe
+                    </Reference>
+                    <Reference link="https://www.esvk.de/news/esvk-nimmt-rihards-babulis-unter-vertrag.html">
+                      Talentierter Torhüter kommt aus Bad Nauheim in die Wertachstadt
+                    </Reference>
                   </ul>
                 </li>
-                <li><a href="https://hausberghexe.de/workshops/" target="_blank">Conni Dietrich, Hausberghexe</a> uses some of my photographs</li>
+                <Reference link="https://hausberghexe.de/workshops/">
+                  Conni Dietrich (Hausberghexe) uses some of my photographs
+                </Reference>
               </ul>
             </div>
             <div class="social">
@@ -107,9 +158,3 @@
   </div>
   <!-- Contact end -->
 </template>
-
-<script>
-export default {
-  name: "Contact",
-}
-</script>
