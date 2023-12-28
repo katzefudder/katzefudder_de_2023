@@ -1,3 +1,13 @@
+<script setup>
+import { filename } from 'pathe/utils'
+import {useTagBucketStore} from "@/stores/tagbucket.store";
+
+const glob = import.meta.glob('@/assets/logos/*.png', { eager: true })
+const logos = Object.fromEntries(
+  Object.entries(glob).map(([key, value]) => [filename(key), value.default])
+)
+</script>
+
 <template>
   <div class="row">
     <div class="job-items isotope">
@@ -5,7 +15,7 @@
         <p>{{ date }}</p>
         <h3><a :href="link" target="_blank">{{ title }}</a></h3>
         <a :href="link" target="_blank">
-          <img v-if="logo" :src="'/src/assets/logos/' + logo" :alt="title">
+          <img v-if="logo" :src="logos[logo]" :alt="title">
         </a>
         <p>
           <b>{{ position }}</b><br />
@@ -24,8 +34,6 @@
 </template>
 
 <script>
-import {useTagBucketStore} from "@/stores/tagbucket.store";
-
 export default {
   name: "JobItem",
   props: {

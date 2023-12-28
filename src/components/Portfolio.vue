@@ -26,7 +26,7 @@
       <!-- Summary End -->
       <JobItem
           date="since December 2023"
-          logo="bechtle.png"
+          logo="bechtle"
           title="Bechtle GmbH & Co.KG"
           link="https://www.bechtle.com"
           position="Permanent position: Senior Cloud Solution Architect"
@@ -36,7 +36,7 @@
       </JobItem>
       <JobItem
           date="August 2023 - December 2023"
-          logo="otto_group.png"
+          logo="otto_group"
           title="Otto Group"
           link="https://www.ottogroup.com"
           position="Freelance position: DevOps"
@@ -46,7 +46,7 @@
       </JobItem>
       <JobItem
           date="March 2023 - July 2023"
-          logo="union_investment.png"
+          logo="union_investment"
           title="Union Investment - Union IT-Services Gesellschaft mbH"
           link="https://www.union-investment.de"
           position="Freelance position: DevOps"
@@ -57,7 +57,7 @@
       </JobItem>
       <JobItem
           date="March 2022 until February 2023"
-          logo="union_investment.png"
+          logo="union_investment"
           title="Union Investment - Union IT-Services Gesellschaft mbH"
           link="https://www.union-investment.de"
           position="Freelance position: Cloud Consulting"
@@ -68,7 +68,7 @@
       </JobItem>
       <JobItem
           date="Since 2013"
-          logo="del2.png"
+          logo="del2"
           title="Photographer - DEL 2: Second German Ice Hockey League"
           link="https://www.del-2.org/fotografen/"
           position="Voluntary position: Photographer for EC Bad Nauheim"
@@ -87,7 +87,7 @@
       </JobItem>
       <JobItem
           date="July 2020 until December 2020"
-          logo="db.png"
+          logo="db"
           title="DB Systel GmbH"
           link="https://www.dbsystel.de/"
           position="Permanent position: DevOps Engineer"
@@ -97,7 +97,7 @@
       </JobItem>
       <JobItem
           date="February 2020 - June 2020"
-          logo="jarltech.png"
+          logo="jarltech"
           title="Jarltech Europe GmbH"
           link="https://www.jarltech.com/"
           position="Permanent position: DevOps Engineer"
@@ -107,7 +107,7 @@
       </JobItem>
       <JobItem
           date="September 2017 - January 2020"
-          logo="klarna.png"
+          logo="klarna"
           title="Klarna Bank AB"
           link="https://www.klarna.com"
           position="Permanent position: Engineering Manager"
@@ -117,7 +117,7 @@
       </JobItem>
       <JobItem
           date="June 2015 - August 2017"
-          logo="klarna.png"
+          logo="klarna"
           title="Klarna Bank AB"
           link="https://www.klarna.com/sofort/"
           position="Permanent position: Senior Software Engineer"
@@ -127,7 +127,7 @@
       </JobItem>
       <JobItem
           date="January 2014 - May 2015"
-          logo="wdv.png"
+          logo="wdv"
           title="wdv Gesellschaft für Medien & Kommunikation mbH & Co. KG"
           link="https://www.wdv.de/"
           position="Permanent position: Software Developer TYPO3"
@@ -137,7 +137,7 @@
       </JobItem>
       <JobItem
           date="April 2011 - December 2013"
-          logo="sofort.png"
+          logo="sofort"
           title="SOFORT AG"
           link="https://www.klarna.com/sofort/"
           position="Permanent position: Software Developer"
