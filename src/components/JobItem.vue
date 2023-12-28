@@ -4,8 +4,11 @@
       <div class="col-md-12 job-item">
         <p>{{ date }}</p>
         <h3><a :href="link" target="_blank">{{ title }}</a></h3>
-        <b>{{ position }}</b>
+        <a :href="link" target="_blank">
+          <img v-if="logo" :src="'/src/assets/logos/' + logo" :alt="title">
+        </a>
         <p>
+          <b>{{ position }}</b><br />
           {{ description }}
         </p>
         <div v-if="jobTags" class="row">
@@ -26,6 +29,7 @@ import {useTagBucketStore} from "@/stores/tagbucket.store";
 export default {
   name: "JobItem",
   props: {
+    logo: String,
     position: String,
     title: String,
     link: String,

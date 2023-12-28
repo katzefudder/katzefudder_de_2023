@@ -232,10 +232,9 @@ ol.type li a:hover {
     word-wrap: break-word;
 }
 .job-item img {
-    display: none;
-    border: 1px solid #666;
-    padding: 4px;
-    margin: 12px;
+    padding: 0px;
+    margin-bottom: 12px;
+    width: 120px;
 }
 .job-item ul {
     margin-left: 32px;

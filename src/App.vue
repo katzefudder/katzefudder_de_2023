@@ -1,19 +1,3 @@
-<template>
-  <SiteHeader></SiteHeader>
-
-  <Portfolio></Portfolio>
-
-  <Education></Education>
-
-  <TagCloud></TagCloud>
-
-  <Contact></Contact>
-
-  <FlickrGallery title=" " user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
-
-  <Footer></Footer>
-</template>
-
 <script>
 import TagCloud from "@/components/TagCloud.vue";
 import SiteHeader from "@/components/SiteHeader.vue";
@@ -71,3 +55,19 @@ export default {
   }
 };
 </script>
+
+<template>
+  <SiteHeader></SiteHeader>
+
+  <Portfolio></Portfolio>
+
+  <Education></Education>
+
+  <TagCloud></TagCloud>
+
+  <Contact></Contact>
+
+  <FlickrGallery title=" " user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
+
+  <Footer></Footer>
+</template>
