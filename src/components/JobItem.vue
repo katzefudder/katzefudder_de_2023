@@ -20,6 +20,9 @@ const logos = Object.fromEntries(
         <p>
           <b>{{ position }}</b><br />
           {{ description }}
+          <i v-if=addDescription>
+            <br />{{  addDescription }}
+          </i>
         </p>
         <div v-if="jobTags" class="row">
           <div class="col-md-12 tag-cloud">
@@ -42,6 +45,7 @@ export default {
     title: String,
     link: String,
     description: String,
+    addDescription: String,
     date: String,
     jobTags: Array,
   },

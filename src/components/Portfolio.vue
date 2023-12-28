@@ -147,6 +147,7 @@
       </JobItem>
       <JobItem
           date="April 2010 - March 2011"
+          logo="dia"
           title="Die Interaktiven GmbH & CO. KG"
           link="https://www.die-interaktiven.de"
           position="Permanent position: Web Developer"
