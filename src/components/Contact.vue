@@ -72,6 +72,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-mit-koerpersprache-und-mentalitaet-92789193.html">
+                      EC Bad Nauheim: Mit Körpersprache und Mentalität
+                    </Reference>
                     <Reference link="https://www.idowa.de/sport/eishockey/ev-landshut-bleibt-auswaerts-eine-wucht-3472065.html">
                       EV Landshut bleibt auswärts eine Wucht
                     </Reference>
