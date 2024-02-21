@@ -48,6 +48,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.del-2.org/news/harry-lange-und-bad-nauheim-gehen-getrennte-wege_8047">
+                      Harry Lange und Bad Nauheim gehen getrennte Wege
+                    </Reference>
                     <Reference link="https://del-2.org/news/regelanpassungen-fur-den-del2-spielbetrieb_7846">
                       Regelanpassungen für den DEL2-Spielbetrieb
                     </Reference>
@@ -72,6 +75,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://ec-bn.de/harry-lange-geht-rich-chernomaz-uebernimmt/">
+                      Harry Lange geht – Rich Chernomaz übernimmt!
+                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-mit-koerpersprache-und-mentalitaet-92789193.html">
                       EC Bad Nauheim: Mit Körpersprache und Mentalität
                     </Reference>
