@@ -4,6 +4,7 @@ import SiteHeader from "@/components/SiteHeader.vue";
 import Footer from "@/components/Footer.vue";
 import Contact from "@/components/Contact.vue";
 import Portfolio from "@/components/Portfolio.vue";
+import Gallery from "@/components/Gallery.vue";
 import {useTagBucketStore} from "@/stores/tagbucket.store";
 
 import {computed, reactive } from 'vue'
@@ -20,6 +21,7 @@ export default {
     Portfolio,
     SiteHeader,
     Contact,
+    Gallery,
     Footer,
     TagCloud,
   },
@@ -67,7 +69,7 @@ export default {
 
   <Contact></Contact>
 
-  <FlickrGallery title=" " user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="website" extras="url_m,url_l,owner_name" :useNavigation=true></FlickrGallery>
+  <Gallery></Gallery>
 
   <Footer></Footer>
 </template>
