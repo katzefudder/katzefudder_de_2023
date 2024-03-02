@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div id="gallery" class="container">
         <div class="row">
             <div class="col-lg-12">
                 <h3>A curated list of photos</h3>
