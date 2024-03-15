@@ -75,6 +75,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/adam-mitchell-neuer-trainer-seine-laufbahn-seine-plaene-92890981.html">
+                      Adam Mitchell neuer Trainer: Seine Laufbahn, seine Pläne
+                    </Reference>
                     <Reference link="https://ec-bn.de/harry-lange-geht-rich-chernomaz-uebernimmt/">
                       Harry Lange geht – Rich Chernomaz übernimmt!
                     </Reference>
