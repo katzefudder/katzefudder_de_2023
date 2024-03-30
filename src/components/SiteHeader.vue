@@ -11,7 +11,7 @@
                 <h3 class="glow">from Butzbach, Hesse (Germany)</h3>
                 <a href="#portfolio" class="btn btn-custom btn-lg page-scroll glow">Professional Summary</a>
                 <a href="#contact" class="btn btn-custom btn-lg page-scroll glow">About me</a>
-                <a href="#flickr" class="btn btn-custom btn-lg page-scroll glow">Gallery</a>
+                <a href="#gallery" class="btn btn-custom btn-lg page-scroll glow">Gallery</a>
                 <a href="/lebenslauf_cv_florian_dehn.pdf" target="_blank" class="btn btn-custom btn-lg page-scroll glow">Lebenslauf / CV (in German only)</a>
               </div>
             </div>
