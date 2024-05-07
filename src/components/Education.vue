@@ -13,7 +13,7 @@
           link="https://www.thm.de"
           position="Dipl. Wirtschaftsinformatiker (FH)"
           description="Academic Studies: Business Information Systems"
-          addDescription="Final Thesis (in German): Konzeption und technische Implementierung eines Unternehmensintranets mit Hilfe der OpenText Web Solutions Suite und Integration in das SAP NetWaever Portal"
+          addDescription="Final Thesis (in German): Konzeption und technische Implementierung eines Unternehmensintranets mit Hilfe der OpenText Web Solutions Suite und Integration in das SAP NetWeaver Portal"
           :job-tags="['Software Engineering']"
       >
       </JobItem>
