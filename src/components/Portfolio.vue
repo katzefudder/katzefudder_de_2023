@@ -31,7 +31,7 @@
           link="https://www.bechtle.com"
           position="Permanent position: Senior Cloud Solution Architect"
           description="Providing DevOps experience and know-how to use AWS' products"
-          :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Grafana', 'GitHub Actions', 'Dependabot', 'Python', 'PostgreSQL', 'MongoDB', 'Python', 'VueJS']"
+          :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Kubernetes', 'RedHat Open Shift', 'Helm', 'ArgoCD', 'VueJs', 'node.js', 'GitHub Actions', 'Dependabot', 'Python', 'PostgreSQL', 'MongoDB', 'Python', 'VueJS']"
       >
       </JobItem>
       <JobItem
