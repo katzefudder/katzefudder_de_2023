@@ -75,6 +75,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.starbulls.de/de/fabjion-kuqi-verstaerkt-die-offensive-der-starbulls/">
+                      Fabjon Kuqi verstärkt die Offensive der Starbulls
+                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/adam-mitchell-neuer-trainer-seine-laufbahn-seine-plaene-92890981.html">
                       Adam Mitchell neuer Trainer: Seine Laufbahn, seine Pläne
                     </Reference>
