@@ -15,12 +15,16 @@ library.add(faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
 import {FlickrGalleryPlugin} from "flickrgallery";
 import "flickrgallery/dist/style.css";
 
+import Toast from "vue-toastification";
+import "vue-toastification/dist/index.css";
+
 const pinia = createPinia()
 const head = createHead()
 
 createApp(App)
     .use(pinia)
     .use(head)
+    .use(Toast)
     .use(FlickrGalleryPlugin)
     .component('font-awesome-icon', FontAwesomeIcon)
     .mount('#app')
