@@ -19,7 +19,8 @@
     "flickrgallery": "~0.1.0",
     "pathe": "^1.1.1",
     "pinia": "^2.0.36",
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
