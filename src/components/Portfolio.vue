@@ -8,18 +8,21 @@
           <h2>Professional Summary</h2>
           <span class="summary">
             <p>
-              Florian Dehn is a highly skilled and experienced software engineer with expertise in a wide range of programming languages and platforms,
-              including PHP, Python, Go and JavaScript.
-              He is an expert in software architecture, design patterns, and agile methodologies, enabling him to develop and deliver high-quality software products.
+              Florian Dehn is an experienced software engineer with deep expertise in cloud infrastructure, 
+              proficient in technologies such as PHP, Python, Go, Terraform, Ansible, and container technology.
+              These skills equip him to handle complex challenges in software development and cloud systems management, 
+              showcasing his proficiency across both development and operational aspects of tech projects. 
+              <br />
+              He holds a degree in Business Information Systems (Dipl. Wirtschaftsinformatiker FH), 
+              which equips him to seamlessly integrate technical solutions with business needs.
             </p>
             <p>
-              In addition to his software engineering skills, Florian is also an accomplished photographer with a passion for capturing striking and evocative images. He has extensive experience in sports, portrait, and landscape photography.
+              Florian has demonstrated strong leadership capabilities in his previous role as Team Lead Engineering, 
+              guiding his team through complex projects and fostering an environment of innovation. 
+              Additionally, he has a passion for photography and serves as an official sports photographer for <a href="https://www.del-2.org" target="_blank">DEL2</a>, 
+              where he captures the intense and fast-paced action of sports events. 
+              This blend of technical leadership and creative passion underscores Florian’s diverse skills and his ability to excel in multiple disciplines.
             </p>
-            <p>
-              With his broad skillset and experience, Florian is well-equipped to take on any software engineering or photography project and deliver outstanding results.
-              His expertise in software development and photography, combined with his ability to effectively communicate technical concepts to non-technical stakeholders, make him a valuable asset to any team.
-            </p>
-            <p>© by ChatGPT</p>
           </span>
         </div>
       </div>
