@@ -38,8 +38,21 @@ export default {
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
                 </li>
                 <li>
-                  Photos of the week 21 on heise.de <a href="https://www.heise.de/news/Monochrom-bleibt-zeitlos-schoen-Die-Bilder-der-Woche-KW21-9066607.html" target="_blank">Monochrom bleibt zeitlos schön</a>
+                  <a href="https://www.heise.de/news/Monochrom-bleibt-zeitlos-schoen-Die-Bilder-der-Woche-KW21-9066607.html" target="_blank">Monochrom bleibt zeitlos schön</a> Photos of the week (21, 2023) on heise.de
                 </li>
+                <li>
+                  <a href="https://www.heise.de/news/Eine-ganze-Woche-in-Schwarz-Weiss-Die-Bilder-der-Woche-KW-34-9284961.html" target="_blank">Eine ganze Woche in Schwarz-Weiß: Die Bilder der Woche</a> Photos of the week (34, 2023) on heise.de
+                </li>
+                <li>
+                  <a href="https://www.heise.de/news/Die-Leere-und-ihr-Gegengewicht-Die-Bilder-der-Woche-KW-1-9588580.html" target="_blank">Die Leere und ihr Gegengewicht</a> Photos of the week (1, 2024) on heise.de
+                </li>
+                <li>
+                  <a href="https://www.heise.de/news/Natuerlich-und-artifiziell-Die-Bilder-der-Woche-KW-13-9670152.html" target="_blank">Natürlich und artifiziell</a> Photos of the week (13, 2024) on heise.de
+                </li>
+                <li>
+                  <a href="https://www.heise.de/news/So-wirken-Licht-und-Schatten-Die-Bilder-der-Woche-KW-19-9714204.html" target="_blank">Monochrom bleibt zeitlos schön</a> Photos of the week (19, 2024) on heise.de
+                </li>
+                
                 <li>
                   Zeiss Career uses one of my photos, taken with the Zeiss Distagon T* 25mm f2.8 ZF.2 on Social Media
                   <a href="https://www.facebook.com/zeisskarriere/photos/pb.193384437386261.-2207520000../4210219679036030/?type=3&theater" target="_blank">Facebook</a>
@@ -115,7 +128,7 @@ export default {
                       Verteidiger Marius Erk: »Man kann wieder mit uns rechnen«
                     </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html">
-                      Wie Marcel Brandt die Fans elektisieren konnte
+                      Wie Marcel Brandt die Fans elektrisieren konnte
                     </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html">
                       EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert
