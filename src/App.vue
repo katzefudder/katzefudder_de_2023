@@ -14,8 +14,6 @@ import {useSeoMeta} from "@unhead/vue";
 import headerImage from "./assets/header_image.jpg";
 import Education from "@/components/Education.vue";
 
-import { useToast } from "vue-toastification";
-
 export default {
   name: 'katzefudder.de',
   components: {
@@ -56,11 +54,6 @@ export default {
       ogLocale: 'en',
       ogLocaleAlternate: ['de'],
     })
-    const toast = useToast();
-    toast("I'm currently available #openForWork", {
-        timeout: 60000
-
-    });
   }
 };
 </script>

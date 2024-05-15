@@ -21,7 +21,7 @@
     "pinia": "^2.0.36",
     "sweetalert": "^2.1.2",
     "vue": "^3.2.47",
-    "vue-toastification": "^2.0.0-rc.5"
+    "vue-gtag": "^2.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
