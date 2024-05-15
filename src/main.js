@@ -16,6 +16,7 @@ import {FlickrGalleryPlugin} from "flickrgallery";
 import "flickrgallery/dist/style.css";
 
 import VueGtag from "vue-gtag";
+import router from './router.js';
 
 const pinia = createPinia()
 const head = createHead()
@@ -24,6 +25,7 @@ createApp(App)
     .use(VueGtag, {
         config: { id: "UA-54083421-2" }
     })
+    .use(router)
     .use(pinia)
     .use(head)
     .use(FlickrGalleryPlugin)
