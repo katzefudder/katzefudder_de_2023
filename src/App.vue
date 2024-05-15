@@ -2,7 +2,7 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/privacy-policy">Datenschutzhinweis</router-link>
+      <router-link to="/privacy-policy">Privacy Policy</router-link>
     </nav>
     <router-view></router-view>
   </div>
