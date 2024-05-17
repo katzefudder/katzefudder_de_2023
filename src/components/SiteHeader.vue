@@ -1,3 +1,18 @@
+<script>
+export default {
+  name: "SiteHeader",
+  methods: {
+    async downloadCV(pdfUrl) {
+      const link = document.createElement('a')
+      link.href = pdfUrl
+      link.download = pdfUrl
+      link.click()
+      URL.revokeObjectURL(link.href)
+    },
+  }
+}
+</script>
+
 <template>
   <header id="header">
     <div class="intro">
@@ -24,18 +39,3 @@
     </div>
   </header>
 </template>
-
-<script>
-export default {
-  name: "SiteHeader",
-  methods: {
-    async downloadCV(pdfUrl) {
-      const link = document.createElement('a')
-      link.href = pdfUrl
-      link.download = pdfUrl
-      link.click()
-      URL.revokeObjectURL(link.href)
-    },
-  }
-}
-</script>
