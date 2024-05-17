@@ -147,6 +147,29 @@ header .intro-text {
     padding-top: 250px;
     padding-bottom: 200px;
 }
+
+header ul li {
+    float: left;
+}
+
+header ul li a {
+    display: block;
+    text-shadow: 1px 1px 10px #fff, 1px 1px 10px #666;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color: #444;
+    background-color: transparent;
+    border: 2px solid #444;
+    padding: 14px 20px;
+    margin: 0;
+    font-size: 14px;
+    border-radius: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    transition: all 0.5s;
+}
+
 /* Portfolio Section */
 #portfolio {
     padding: 40px 0 40px 0;
