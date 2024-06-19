@@ -28,7 +28,7 @@
       </div>
       <!-- Summary End -->
       <JobItem
-          date="since December 2023"
+          date="December 2023 - June 2024"
           logo="bechtle"
           title="Bechtle GmbH & Co.KG"
           link="https://www.bechtle.com"
