@@ -37,6 +37,16 @@
       >
       </JobItem>
       <JobItem
+          date="Since 2013"
+          logo="del2"
+          title="Photographer - DEL 2: Second German Ice Hockey League"
+          link="https://www.del-2.org/fotografen/"
+          position="Voluntary position: Photographer for EC Bad Nauheim"
+          description="Photography at the ice rink: reportage, portraits, action"
+          :jobTags="['Photography', 'Nikon', 'Nikon Z 9', 'Nikon D850', 'Nikon Z 6', 'Leica', 'Leica M11']"
+      >
+      </JobItem>
+      <JobItem
           date="December 2023 - June 2024"
           logo="bechtle"
           title="Bechtle GmbH & Co.KG"
@@ -76,16 +86,6 @@
           description="Functional and technical consulting, migrating on-premise assets to cloud Infrastructure"
           :jobTags="['Microsoft Azure', 'Microsoft Azure DevOps', 'Azure App Service', 'Linux', 'Container', 'Kubernetes', 'Terraform', 'Terragrunt', 'Helm', 'nginx',
              'openresty', 'Loki', 'Prometheus', 'Grafana', 'Software Architecture', 'Consulting']"
-      >
-      </JobItem>
-      <JobItem
-          date="Since 2013"
-          logo="del2"
-          title="Photographer - DEL 2: Second German Ice Hockey League"
-          link="https://www.del-2.org/fotografen/"
-          position="Voluntary position: Photographer for EC Bad Nauheim"
-          description="Photography at the ice rink: reportage, portraits, action"
-          :jobTags="['Photography', 'Nikon', 'Nikon Z 9', 'Nikon D850', 'Nikon Z 6', 'Leica', 'Leica M11']"
       >
       </JobItem>
       <JobItem
