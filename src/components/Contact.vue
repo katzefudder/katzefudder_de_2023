@@ -88,6 +88,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.fnp.de/sport/lokalsport/kader-werte-philosophie-torwart-duell-das-sagt-trainer-adam-mitchell-93233689.html">
+                      Kader, Werte, Philosophie, Torwart-Duell: Das sagt Trainer Adam Mitchell
+                    </Reference>
                     <Reference link="https://www.starbulls.de/de/fabjion-kuqi-verstaerkt-die-offensive-der-starbulls/">
                       Fabjon Kuqi verstärkt die Offensive der Starbulls
                     </Reference>
