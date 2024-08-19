@@ -88,6 +88,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/nach-verkorkster-vorsaison-warum-julian-lautenschlager-positiv-in-die-zukunft-schaut-93245669.html">
+                      Nach verkorkster Vorsaison: Warum Julian Lautenschlager positiv in die Zukunft schaut
+                    </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/kader-werte-philosophie-torwart-duell-das-sagt-trainer-adam-mitchell-93233689.html">
                       Kader, Werte, Philosophie, Torwart-Duell: Das sagt Trainer Adam Mitchell
                     </Reference>
