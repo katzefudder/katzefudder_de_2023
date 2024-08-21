@@ -61,6 +61,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://del-2.org/news/start-der-testspiele-und-livestreams-auf-sportdeutschlandtv_8385">
+                      Start der Testspiele und Livestreams auf Sportdeutschland.TV
+                    </Reference>
                     <Reference link="https://www.del-2.org/news/konstanz-an-der-trainerbank-der-wolfe_8085">
                       Konstanz an der Trainerbank der Wölfe
                     </Reference>
