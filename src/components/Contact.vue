@@ -55,7 +55,7 @@ export default {
                 
                 <li>
                   Zeiss Career uses one of my photos, taken with the Zeiss Distagon T* 25mm f2.8 ZF.2 on Social Media
-                  <a href="https://www.facebook.com/zeisskarriere/photos/pb.193384437386261.-2207520000../4210219679036030/?type=3&theater" target="_blank">Facebook</a>
+                  <a href="https://www.facebook.com/zeisskarriere/photos/pb.193384437386261.-2207520000../4210219679036030/?type=3&theater" target="_blank">Facebook</a>&nbsp;
                   <a href="https://www.instagram.com/p/CP5pfRNhVb8/" target="_blank">Instagram</a>
                 </li>
                 <li>
@@ -168,6 +168,11 @@ export default {
               <p>Find me on:</p>
               <ul>
                 <li>
+                  <a href="https://www.linkedin.com/in/floriandehn/" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-linkedin" />
+                  </a>
+                </li>
+                <li>
                   <a href="https://github.com/katzefudder" target="_blank">
                     <font-awesome-icon icon="fa-brands fa-github" />
                   </a>
@@ -175,11 +180,6 @@ export default {
                 <li>
                   <a href="https://www.flickr.com/photos/katzenfutter/" target="_blank">
                     <font-awesome-icon icon="fa-brands fa-flickr" />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.linkedin.com/in/floriandehn/" target="_blank">
-                    <font-awesome-icon icon="fa-brands fa-linkedin" />
                   </a>
                 </li>
                 <li>
