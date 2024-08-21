@@ -61,6 +61,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.del-2.org/news/konstanz-an-der-trainerbank-der-wolfe_8085">
+                      Konstanz an der Trainerbank der Wölfe
+                    </Reference>
                     <Reference link="https://www.del-2.org/news/harry-lange-und-bad-nauheim-gehen-getrennte-wege_8047">
                       Harry Lange und Bad Nauheim gehen getrennte Wege
                     </Reference>
