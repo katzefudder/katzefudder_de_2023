@@ -237,11 +237,16 @@ ol.type li a:hover {
     margin-left: 32px;
 }
 .enum ul li{
-    list-style-type: circle;
     list-style: circle;
 }
 .enum p {
     font-size: 1.2em;
+}
+.enum li a, .enum li a:visited {
+    color: #686868;
+}
+.enum li a:hover {
+    color: #888;
 }
 .job-item {
     padding: 0 0 24px 12px;
