@@ -88,6 +88,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.sonntag-morgenmagazin.eu/smlokales/mahnwache-nach-anschlag-in-butzbach;art2773,1048712">
+                      Mahnwache nach Anschlag in Butzbach
+                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/nach-verkorkster-vorsaison-warum-julian-lautenschlager-positiv-in-die-zukunft-schaut-93245669.html">
                       Nach verkorkster Vorsaison: Warum Julian Lautenschlager positiv in die Zukunft schaut
                     </Reference>
