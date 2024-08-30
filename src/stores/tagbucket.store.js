@@ -14,21 +14,6 @@ export const useTagBucketStore = defineStore("tagbucket", {
                 return false
             }
         },
-        has(tag) {
-            const isOnList = this.$state.tags.indexOf(tag)
-            if (isOnList === -1 ) return false
-            return true
-        },
-        getCount() {
-            return this.$state.tags.length
-        },
-        clearTagBucket() {
-            this.$state.tags = []
-            localStorage.setItem('TagBucket', [])
-        },
-        paginate(page_size, page_number) {
-            return this.$state.tags.slice((page_number - 1) * page_size, page_number * page_size);
-        },
         getAllTags() {
             return this.$state.tags
         },

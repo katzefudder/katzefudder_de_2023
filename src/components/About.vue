@@ -2,14 +2,14 @@
 import Reference from "@/components/Reference.vue";
 
 export default {
-  name: "Contact",
+  name: "About",
   components: {Reference},
 }
 </script>
 
 <template>
   <!-- Contact begin -->
-  <div id="contact">
+  <div id="about">
     <div class="container">
       <h3>About me</h3>
       <div class="row">
@@ -17,7 +17,7 @@ export default {
           <div class="section-title">
             <img src="@/assets/about.jpg" class="img-responsive pull-left" alt="Foto Florian Dehn">
             <p>Florian Dehn</p>
-            <p>Dipl. Wirtschaftsinformatiker (FH) - BSc Business Information Systems equivalent</p>
+            <p><i class="fa-solid fa-user-graduate"></i> Dipl. Wirtschaftsinformatiker (FH) - BSc Business Information Systems equivalent</p>
             <p>Software Engineer with a strong focus on cloud based infrastructure and software development</p>
             <p>Photographer for <a href="https://chuc.de" target="_blank">Chuc Fotografie</a> and <a href="https://ec-bn.de" target="_blank">EC Bad
               Nauheim</a> in <a href="https://www.del-2.org" target="_blank">DEL2</a> (Germany's Second Ice Hockey League)

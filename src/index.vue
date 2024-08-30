@@ -2,9 +2,9 @@
 import TagCloud from "@/components/TagCloud.vue";
 import SiteHeader from "@/components/SiteHeader.vue";
 import Footer from "@/components/Footer.vue";
-import Contact from "@/components/Contact.vue";
+import About from "@/components/About.vue";
+import CV from "@/components/CV.vue";
 import Portfolio from "@/components/Portfolio.vue";
-import Gallery from "@/components/Gallery.vue";
 import {useTagBucketStore} from "@/stores/tagbucket.store";
 
 import {computed, reactive } from 'vue'
@@ -18,10 +18,10 @@ export default {
   name: 'Index',
   components: {
     Education,
-    Portfolio,
+    CV,
     SiteHeader,
-    Contact,
-    Gallery,
+    About,
+    Portfolio,
     Footer,
     TagCloud,
   },
@@ -61,15 +61,15 @@ export default {
 <template>
   <SiteHeader></SiteHeader>
 
-  <Portfolio></Portfolio>
+  <CV></CV>
 
   <Education></Education>
 
   <TagCloud></TagCloud>
 
-  <Contact></Contact>
+  <About></About>
 
-  <Gallery></Gallery>
+  <Portfolio></Portfolio>
 
   <Footer></Footer>
 
