@@ -38,6 +38,9 @@ export default {
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
                 </li>
                 <li>
+                  <a href="https://www.heise.de/news/Menschen-und-ihre-Eigenarten-Die-Bilder-der-Woche-KW-34-9852743.html" target="_blank">Menschen und ihre Eigenarten</a> Photos of the week (34, 2024) on heise.de
+                </li>
+                <li>
                   <a href="https://www.heise.de/news/Monochrom-bleibt-zeitlos-schoen-Die-Bilder-der-Woche-KW21-9066607.html" target="_blank">Monochrom bleibt zeitlos schön</a> Photos of the week (21, 2023) on heise.de
                 </li>
                 <li>
