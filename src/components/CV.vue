@@ -28,12 +28,13 @@
       </div>
       <!-- Summary End -->
       <JobItem
-          date="from September 2024 on..."
-          title="Off to new shores"
-          link="https://www.example.com"
-          position="Permanent position: Not diclosed yet"
+          date="since September 2024"
+          logo="cgi"
+          title="CGI Deutschland B.V. & Co. KG"
+          link="https://www.cgi.com/de/de"
+          position="Permanent position: Senior Consultant"
           description="not disclosed yet"
-          :jobTags="['devops', 'kubernetes']"
+          :jobTags="['devops']"
       >
       </JobItem>
       <JobItem
