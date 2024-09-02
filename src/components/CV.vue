@@ -33,7 +33,7 @@
           title="CGI Deutschland B.V. & Co. KG"
           link="https://www.cgi.com/de/de"
           position="Permanent position: Senior Consultant"
-          description="not disclosed yet"
+          description="IT Consulting - DevOps"
           :jobTags="['devops']"
       >
       </JobItem>
