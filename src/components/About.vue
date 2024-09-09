@@ -95,7 +95,7 @@ export default {
                   </ul>
                 </li>
                 <li>
-                  Other sources
+                  Other sources that use my imagery
                   <ul>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-wieder-torlos-bei-lehrstunde-93287953.html">
                       EC Bad Nauheim: Erneute Nullnummer der Roten Teufel
