@@ -97,6 +97,9 @@ export default {
                 <li>
                   Other sources
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-wieder-torlos-bei-lehrstunde-93287953.html">
+                      EC Bad Nauheim: Erneute Nullnummer der Roten Teufel
+                    </Reference>
                     <Reference link="https://www.sonntag-morgenmagazin.eu/smlokales/mahnwache-nach-anschlag-in-butzbach;art2773,1048712">
                       Mahnwache nach Anschlag in Butzbach
                     </Reference>
