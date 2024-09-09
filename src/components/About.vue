@@ -121,18 +121,6 @@ export default {
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-mit-koerpersprache-und-mentalitaet-92789193.html">
                       EC Bad Nauheim: Mit Körpersprache und Mentalität
                     </Reference>
-                    <Reference link="https://www.idowa.de/sport/eishockey/ev-landshut-bleibt-auswaerts-eine-wucht-3472065.html">
-                      EV Landshut bleibt auswärts eine Wucht
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/bissiger-galliger-konsequenter-klare-forderung-beim-ec-bad-nauheim-92548022.html">
-                      »Bissiger, galliger, konsequenter« - Klare Forderungen beim EC Bad Nauheim
-                    </Reference>
-                    <Reference link="https://www.la-rundschau.de/sport/68469-del-fuehrt-referee-day-durch-am-1-ok-t-steht-das-heim-spiel-des-evl-im-zei-chen-der-schieds-rich-ter">
-                      DEL führt Referee-Day durch
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/lokalsport/ec-bad-nauheim-von-der-euphorie-welle-getragen-92512453.html">
-                      EC Bad Nauheim: Von der Euphorie-Welle getragen
-                    </Reference>
                     <Reference link="https://ec-bn.de/impressionen-vom-media-day/">
                       EC Bad Nauheim: Impressionen vom Media-Day
                     </Reference>
@@ -150,18 +138,6 @@ export default {
                     </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html">
                       Wie Marcel Brandt die Fans elektrisieren konnte
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-pollastrone-bleibt-kooperation-verlaengert-92329095.html">
-                      EC Bad Nauheim: Pollastrone bleibt - Kooperation verlängert
-                    </Reference>
-                    <Reference link="https://www.heilbronner-falken.de/simon-thiel-erleidet-schaedelhirntrauma/9450/">
-                      Simon Thiel erleidet Schädelhirntrauma
-                    </Reference>
-                    <Reference link="https://www.ehcf.de/news/article/philipp-wachter-traegt-das-trikot-der-woelfe/">
-                      Philipp Wachter trägt das Trikot der Wölfe
-                    </Reference>
-                    <Reference link="https://www.esvk.de/news/esvk-nimmt-rihards-babulis-unter-vertrag.html">
-                      Talentierter Torhüter kommt aus Bad Nauheim in die Wertachstadt
                     </Reference>
                   </ul>
                 </li>
