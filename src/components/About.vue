@@ -32,7 +32,7 @@ export default {
             </div>
             <p>&nbsp;</p>
             <div class="enum">
-              <h3>Publications / Articles</h3>
+              <h3>Publications / Articles / imagery used</h3>
               <ul>
                 <li>
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
@@ -97,11 +97,17 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.giessener-anzeiger.de/sport/lokalsport/wir-gehen-ins-risiko-93292455.html">
+                      Wir gehen ins Risiko
+                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-wieder-torlos-bei-lehrstunde-93287953.html">
                       EC Bad Nauheim: Erneute Nullnummer der Roten Teufel
                     </Reference>
                     <Reference link="https://www.sonntag-morgenmagazin.eu/smlokales/mahnwache-nach-anschlag-in-butzbach;art2773,1048712">
                       Mahnwache nach Anschlag in Butzbach
+                    </Reference>
+                    <Reference link="https://www.stiftung-kupb.de/veranstaltungen/bildnachlese-plakate-transparente/">
+                      Butzbach steht auf gegen Rechtsextremismus
                     </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/nach-verkorkster-vorsaison-warum-julian-lautenschlager-positiv-in-die-zukunft-schaut-93245669.html">
                       Nach verkorkster Vorsaison: Warum Julian Lautenschlager positiv in die Zukunft schaut
