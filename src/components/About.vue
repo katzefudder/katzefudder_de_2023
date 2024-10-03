@@ -64,6 +64,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.del-2.org/news/garret-pruden-vom-ec-bad-nauheim-fur-zwei-spiele-gesperrt_8429">
+                      Garret Pruden vom EC Bad Nauheim für zwei Spiele gesperrt
+                    </Reference>
                     <Reference link="https://del-2.org/news/start-der-testspiele-und-livestreams-auf-sportdeutschlandtv_8385">
                       Start der Testspiele und Livestreams auf Sportdeutschland.TV
                     </Reference>
@@ -97,6 +100,9 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.frankenpost.de/inhalt.selbs-del2-woche-wenig-schlaf-viel-spektakel.2855e50f-3c8b-4767-a1c9-d058213189ef.html">
+                      Wenig Schlaf, viel Spektakel
+                    </Reference>
                     <Reference link="https://www.giessener-anzeiger.de/sport/lokalsport/wir-gehen-ins-risiko-93292455.html">
                       Wir gehen ins Risiko
                     </Reference>
