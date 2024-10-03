@@ -103,6 +103,9 @@ export default {
                     <Reference link="https://www.frankenpost.de/inhalt.selbs-del2-woche-wenig-schlaf-viel-spektakel.2855e50f-3c8b-4767-a1c9-d058213189ef.html">
                       Wenig Schlaf, viel Spektakel
                     </Reference>
+                    <Reference link="https://www.rosenheim24.de/sport/eishockey/starbulls-rosenheim/eishockey-del2-rosenheim-die-goalie-rochade-starbulls-koennen-torwart-aus-straubing-holen-93298201.html">
+                      Die Goalie-Rochade: Starbulls können Torwart aus Straubing holen – Scherer doch wieder aktiv
+                    </Reference>
                     <Reference link="https://www.giessener-anzeiger.de/sport/lokalsport/wir-gehen-ins-risiko-93292455.html">
                       Wir gehen ins Risiko
                     </Reference>
