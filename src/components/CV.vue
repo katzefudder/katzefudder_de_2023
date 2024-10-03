@@ -34,7 +34,7 @@
           link="https://www.cgi.com/de/de"
           position="Permanent position: Senior Consultant"
           description="IT Consulting - DevOps"
-          :jobTags="['devops']"
+          :jobTags="['devops', 'consulting', 'product owner']"
       >
       </JobItem>
       <JobItem
