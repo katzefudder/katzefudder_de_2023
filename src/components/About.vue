@@ -57,6 +57,16 @@ export default {
                 </li>
                 
                 <li>
+                  <a href="https://dosbnewmedia.de" target="_blank">DOSB New Media</a> uses some of my photos for their service, e.g. sportdeutschland.tv
+                  <Reference link="https://dosbnewmedia.de/news/die-schanner-eishockeyartikel-gmbh-co-kg-wird-mit-ihrer-marke-bauer-hockey-der-exklusive-ausstattungspartner-der-del2-auf-sportdeutschland-tv">
+                    Die Schanner Eishockeyartikel GmbH + Co. KG wird mit ihrer Marke BAUER Hockey der exklusive Ausstattungspartner der DEL2 auf Sportdeutschland.TV
+                  </Reference>
+                  <Reference link="https://sportdeutschland.tv/ec-bad-nauheim">
+                    EC Bad Nauheim: ALLE SPIELE DER DEL2 LIVE ERLEBEN!
+                  </Reference>
+                </li>
+                   
+                <li>
                   Zeiss Career uses one of my photos, taken with the Zeiss Distagon T* 25mm f2.8 ZF.2 on Social Media
                   <a href="https://www.facebook.com/zeisskarriere/photos/pb.193384437386261.-2207520000../4210219679036030/?type=3&theater" target="_blank">Facebook</a>&nbsp;
                   <a href="https://www.instagram.com/p/CP5pfRNhVb8/" target="_blank">Instagram</a>
