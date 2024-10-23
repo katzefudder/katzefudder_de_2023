@@ -55,6 +55,15 @@ export default {
                 <li>
                   <a href="https://www.heise.de/news/So-wirken-Licht-und-Schatten-Die-Bilder-der-Woche-KW-19-9714204.html" target="_blank">Monochrom bleibt zeitlos schön</a> Photos of the week (19, 2024) on heise.de
                 </li>
+
+                <li>
+                  <a href="https://www.eishockeynews.de" target="_blank">Eishockeynews</a> also uses some of my photos
+                  <ul>
+                    <Reference link="https://www.eishockeynews.de/artikel/2024/10/23/schanner-wird-mit-der-marke-bauer-hockey-exklusiver-ausstattungspartner-der-del2-auf-sportdeutschlandtv/c2a1bade-edbb-4432-90f6-595a16f3618d.html">
+                      Schanner wird mit der Marke BAUER Hockey exklusiver Ausstattungspartner der DEL2 auf Sportdeutschland.TV
+                    </Reference>
+                  </ul>
+                </li>
                 
                 <li>
                   <a href="https://dosbnewmedia.de" target="_blank">DOSB New Media</a> uses some of my photos for their service, e.g. sportdeutschland.tv
