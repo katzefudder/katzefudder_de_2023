@@ -35,6 +35,9 @@ export default {
               <h3>Publications / Articles / imagery used</h3>
               <ul>
                 <li>
+                  Leica Fotografie Internation - LFI added my photo to their ever growing list of <a href="https://lfi-online.de/de/galerie/m-mastershots/Busy-Fishmonger-3607927.html" target="_blank">"Master Shots"</a>
+                </li>
+                <li>
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
                 </li>
                 <li>
