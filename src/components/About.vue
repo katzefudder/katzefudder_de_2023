@@ -36,12 +36,10 @@ export default {
               <ul>
                 <li>
                   <p>
-                    Leica Fotografie International - LFI added some of my photos to their ever growing list of
+                    Leica Fotografie International - LFI added some of my photos to their ever growing list of <strong>Leica Mastershots</strong>
                   </p>
                   <ul>
-                    <FlickrGallery title="Master Shots" user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="websitelfi" extras="url_m,url_l,owner_name" :useNavigation=false></FlickrGallery>
-                    <li><a href="https://lfi-online.de/de/galerie/m-mastershots/Busy-Fishmonger-3607927.html" target="_blank">Busy Fishmonger</a></li>
-                    <li><a href="https://lfi-online.de/de/galerie/m-mastershots/Excited-3631061.html" target="_blank">Excited</a></li>
+                    <FlickrGallery user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="websitelfi" :useNavigation=false></FlickrGallery>
                   </ul>
                 </li>
                 <li>
