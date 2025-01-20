@@ -124,6 +124,9 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-vom-bundestrainer-einem-neuen-promi-fan-und-einem-comeback-93524300.html">
+                      EC Bad Nauheim: Vom Bundestrainer, einem neuen Promi-Fan und einem Comeback
+                    </Reference>
                     <Reference link="https://www.frankenpost.de/inhalt.selbs-del2-woche-wenig-schlaf-viel-spektakel.2855e50f-3c8b-4767-a1c9-d058213189ef.html">
                       Wenig Schlaf, viel Spektakel
                     </Reference>
