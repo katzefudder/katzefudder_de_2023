@@ -35,10 +35,18 @@ export default {
               <h3>Publications / Articles / imagery used</h3>
               <ul>
                 <li>
-                  Leica Fotografie International - LFI added my photo to their ever growing list of <a href="https://lfi-online.de/de/galerie/m-mastershots/Busy-Fishmonger-3607927.html" target="_blank">"Master Shots"</a>
+                  <p>
+                    Leica Fotografie International - LFI added some of my photos to their ever growing list of <strong>Leica Mastershots</strong>
+                  </p>
+                  <ul>
+                    <FlickrGallery user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="websitelfi" :useNavigation=false></FlickrGallery>
+                  </ul>
                 </li>
                 <li>
                   My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
+                </li>
+                <li>
+                  <a href="https://www.heise.de/news/Vom-Sommer-von-Schlangen-und-von-Sportliebhabern-Die-Bilder-der-Woche-KW-47-10179259.html" target="_blank">Vom Sommer, von Schlangen und von Sportliebhabern</a> Photos of the week (47, 2024) on heise.de
                 </li>
                 <li>
                   <a href="https://www.heise.de/news/Menschen-und-ihre-Eigenarten-Die-Bilder-der-Woche-KW-34-9852743.html" target="_blank">Menschen und ihre Eigenarten</a> Photos of the week (34, 2024) on heise.de
@@ -189,16 +197,11 @@ export default {
               </ul>
             </div>
             <div class="social">
-              <p>Find me on:</p>
+              <p>Find me here, and feel free to connect</p>
               <ul>
                 <li>
-                  <a href="https://www.linkedin.com/in/floriandehn/" target="_blank">
-                    <font-awesome-icon icon="fa-brands fa-linkedin" />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://github.com/katzefudder" target="_blank">
-                    <font-awesome-icon icon="fa-brands fa-github" />
+                  <a href="https://www.instagram.com/katzefudder/" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-instagram" />
                   </a>
                 </li>
                 <li>
@@ -207,8 +210,13 @@ export default {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/katzefudder/" target="_blank">
-                    <font-awesome-icon icon="fa-brands fa-instagram" />
+                  <a href="https://github.com/katzefudder" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-github" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/in/floriandehn/" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-linkedin" />
                   </a>
                 </li>
                 <li>
