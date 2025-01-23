@@ -33,8 +33,8 @@
           title="CGI Deutschland B.V. & Co. KG"
           link="https://www.cgi.com/de/de"
           position="Permanent position: Senior Consultant"
-          description="IT Consulting - DevOps"
-          :jobTags="['devops', 'consulting', 'product owner']"
+          description="IT Consulting"
+          :jobTags="['Cloud Architecture', 'Consulting', 'DevOps', 'Kubernetes', 'AWS', 'Microsoft Azure', 'Python', 'Serverless', 'Observability']"
       >
       </JobItem>
       <JobItem
