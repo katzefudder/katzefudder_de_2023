@@ -96,6 +96,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.del-2.org/news/vertragsverlangerung-in-bad-nauheim_8640">
+                      Parker Bowles bleibt bei den Roten Teufeln
+                    </Reference>
                     <Reference link="https://www.del-2.org/news/garret-pruden-vom-ec-bad-nauheim-fur-zwei-spiele-gesperrt_8429">
                       Garret Pruden vom EC Bad Nauheim für zwei Spiele gesperrt
                     </Reference>
@@ -132,6 +135,9 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.fnp.de/sport/lokalsport/ec-badnauheim-parker-bowles-bleibt-ein-teufel-93569895.html">
+                      EC Bad Nauheim: Parker Bowles bleibt ein Teufel
+                    </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-vom-bundestrainer-einem-neuen-promi-fan-und-einem-comeback-93524300.html">
                       EC Bad Nauheim: Vom Bundestrainer, einem neuen Promi-Fan und einem Comeback
                     </Reference>
