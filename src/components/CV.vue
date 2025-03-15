@@ -8,20 +8,13 @@
           <h2>Professional Summary</h2>
           <span class="summary">
             <p>
-              Florian Dehn is an experienced software engineer with deep expertise in cloud infrastructure, 
-              proficient in technologies such as PHP, Python, Go, Terraform, Ansible, and container technology.
-              These skills equip him to handle complex challenges in software development and cloud systems management, 
-              showcasing his proficiency across both development and operational aspects of tech projects. 
+              ​Florian Dehn is a seasoned software engineer and senior consultant at CGI Deutschland B.V. & Co. KG, specializing in cloud architecture, DevOps, and infrastructure as code. 
+              His technical proficiencies encompass AWS, Kubernetes, Terraform, and various programming languages, including PHP, Python, and Go. 
+              Beyond his engineering career, Florian is an accomplished photographer, officially affiliated with <a href="https://www.del-2.org" target="_blank">DEL2</a> and <a href="https://ec-bn.de" target="_blank">EC Bad Nauheim</a>, where he captures dynamic ice rink and action photographs. 
+              His unique blend of technical and creative expertise underscores his dedication to excellence across diverse disciplines.​
               <br />
               He holds a degree in Business Information Systems (Dipl. Wirtschaftsinformatiker FH), 
               which equips him to seamlessly integrate technical solutions with business needs.
-            </p>
-            <p>
-              Florian has demonstrated strong leadership capabilities in his previous role as Team Lead Engineering, 
-              guiding his team through complex projects and fostering an environment of innovation. 
-              Additionally, he has a passion for photography and serves as an official sports photographer for <a href="https://www.del-2.org" target="_blank">DEL2</a>, 
-              where he captures the intense and fast-paced action of sports events. 
-              This blend of technical leadership and creative passion underscores Florian’s diverse skills and his ability to excel in multiple disciplines.
             </p>
           </span>
         </div>
