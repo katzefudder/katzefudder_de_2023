@@ -96,11 +96,11 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.del-2.org/news/mike-pellegrims-verlasst-bad-nauheim_8694">
+                      Mike Pellegrims verlässt Bad Nauheim
+                    </Reference>
                     <Reference link="https://www.del-2.org/news/vertragsverlangerung-in-bad-nauheim_8640">
                       Parker Bowles bleibt bei den Roten Teufeln
-                    </Reference>
-                    <Reference link="https://www.del-2.org/news/garret-pruden-vom-ec-bad-nauheim-fur-zwei-spiele-gesperrt_8429">
-                      Garret Pruden vom EC Bad Nauheim für zwei Spiele gesperrt
                     </Reference>
                     <Reference link="https://del-2.org/news/start-der-testspiele-und-livestreams-auf-sportdeutschlandtv_8385">
                       Start der Testspiele und Livestreams auf Sportdeutschland.TV
@@ -117,41 +117,19 @@ export default {
                     <Reference link="https://www.del-2.org/news/tobias-worle-beendet-karriere_7419">
                       Tobias Wörle beendet Karriere
                     </Reference>
-                    <Reference link="https://www.del-2.org/nachrichten/del2/6569-hessen-derby_zum_samstagabend/">
-                      Hessen-Derby zum Samstagabend
-                    </Reference>
-                    <Reference link="https://www.del-2.org/nachrichten/del2/6358-naechstes_hessen-derby_steigt.html">
-                      Nächstes Hessen-Derby steigt…
-                    </Reference>
-                    <Reference link="https://www.del-2.org/nachrichten/del2/6449-auf_in_den_34_spieltag/">
-                      Auf in den 34. Spieltag
-                    </Reference>
-                    <Reference link="https://www.del-2.org/nachrichten/del2/6518-kenney_morrison_spielt_weiterhin_im_falken-trikot/">
-                      Kenney Morrison spielt weiterhin im Falken-Trikot
-                    </Reference>
-                    <Reference link="https://www.del-2.org/news/weitere-vertragsverlangerung-in-bad-nauheim_7657">Weitere Vertragsverlängerung in Bad Nauheim</Reference>
                   </ul>
                 </li>
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-mit-paukenschlag-in-die-sommerpause-93627300.html">
+                      EC Bad Nauheim: Mit Paukenschlag in die Sommerpause
+                    </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/ec-badnauheim-parker-bowles-bleibt-ein-teufel-93569895.html">
                       EC Bad Nauheim: Parker Bowles bleibt ein Teufel
                     </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-vom-bundestrainer-einem-neuen-promi-fan-und-einem-comeback-93524300.html">
                       EC Bad Nauheim: Vom Bundestrainer, einem neuen Promi-Fan und einem Comeback
-                    </Reference>
-                    <Reference link="https://www.frankenpost.de/inhalt.selbs-del2-woche-wenig-schlaf-viel-spektakel.2855e50f-3c8b-4767-a1c9-d058213189ef.html">
-                      Wenig Schlaf, viel Spektakel
-                    </Reference>
-                    <Reference link="https://www.rosenheim24.de/sport/eishockey/starbulls-rosenheim/eishockey-del2-rosenheim-die-goalie-rochade-starbulls-koennen-torwart-aus-straubing-holen-93298201.html">
-                      Die Goalie-Rochade: Starbulls können Torwart aus Straubing holen – Scherer doch wieder aktiv
-                    </Reference>
-                    <Reference link="https://www.giessener-anzeiger.de/sport/lokalsport/wir-gehen-ins-risiko-93292455.html">
-                      Wir gehen ins Risiko
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-wieder-torlos-bei-lehrstunde-93287953.html">
-                      EC Bad Nauheim: Erneute Nullnummer der Roten Teufel
                     </Reference>
                     <Reference link="https://www.sonntag-morgenmagazin.eu/smlokales/mahnwache-nach-anschlag-in-butzbach;art2773,1048712">
                       Mahnwache nach Anschlag in Butzbach
@@ -159,23 +137,11 @@ export default {
                     <Reference link="https://www.stiftung-kupb.de/veranstaltungen/bildnachlese-plakate-transparente/">
                       Butzbach steht auf gegen Rechtsextremismus
                     </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/nach-verkorkster-vorsaison-warum-julian-lautenschlager-positiv-in-die-zukunft-schaut-93245669.html">
-                      Nach verkorkster Vorsaison: Warum Julian Lautenschlager positiv in die Zukunft schaut
-                    </Reference>
-                    <Reference link="https://www.fnp.de/sport/lokalsport/kader-werte-philosophie-torwart-duell-das-sagt-trainer-adam-mitchell-93233689.html">
-                      Kader, Werte, Philosophie, Torwart-Duell: Das sagt Trainer Adam Mitchell
-                    </Reference>
-                    <Reference link="https://www.starbulls.de/de/fabjion-kuqi-verstaerkt-die-offensive-der-starbulls/">
-                      Fabjon Kuqi verstärkt die Offensive der Starbulls
-                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/adam-mitchell-neuer-trainer-seine-laufbahn-seine-plaene-92890981.html">
                       Adam Mitchell neuer Trainer: Seine Laufbahn, seine Pläne
                     </Reference>
                     <Reference link="https://ec-bn.de/harry-lange-geht-rich-chernomaz-uebernimmt/">
                       Harry Lange geht – Rich Chernomaz übernimmt!
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-mit-koerpersprache-und-mentalitaet-92789193.html">
-                      EC Bad Nauheim: Mit Körpersprache und Mentalität
                     </Reference>
                     <Reference link="https://ec-bn.de/impressionen-vom-media-day/">
                       EC Bad Nauheim: Impressionen vom Media-Day
