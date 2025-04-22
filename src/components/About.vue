@@ -96,6 +96,9 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-del2-meistermacher-kommt-93694684.html">
+                      EC Bad Nauheim: DEL2-Meistermacher kommt
+                    </Reference>
                     <Reference link="https://www.del-2.org/news/mike-pellegrims-verlasst-bad-nauheim_8694">
                       Mike Pellegrims verlässt Bad Nauheim
                     </Reference>
