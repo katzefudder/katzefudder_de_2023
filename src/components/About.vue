@@ -1,6 +1,6 @@
 <script>
 import Reference from "@/components/Reference.vue";
-
+import "flickrgallery/dist/flickrgallery.css";
 export default {
   name: "About",
   components: {Reference},

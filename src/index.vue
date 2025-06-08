@@ -6,8 +6,10 @@ import About from "@/components/About.vue";
 import CV from "@/components/CV.vue";
 import Portfolio from "@/components/Portfolio.vue";
 import {useTagBucketStore} from "@/stores/tagbucket.store";
+import FlickrGallery from "FlickrGallery";
+import 'flickrgallery/dist/flickrgallery.css'
 
-import {computed, reactive } from 'vue'
+import { onMounted, reactive, computed } from 'vue'
 import { useHead } from '@vueuse/head'
 import {useSeoMeta} from "@unhead/vue";
 
@@ -20,6 +22,7 @@ export default {
     Education,
     CV,
     SiteHeader,
+    FlickrGallery,
     About,
     Portfolio,
     Footer,
@@ -32,7 +35,6 @@ export default {
       keywords: useTagBucketStore().takeTags(16).toString()
     })
     useHead({
-      // Can be static or computed
       title: computed(() => siteData.title),
       meta: [
         {

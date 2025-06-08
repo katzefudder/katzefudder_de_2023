@@ -6,21 +6,21 @@ export const useTagBucketStore = defineStore("tagbucket", {
     }),
     actions: {
         add(tag) {
-            if (this.$state.tags.indexOf(tag) === -1) {
-                this.$state.tags.push(tag)
-                localStorage.setItem('TagBucket', JSON.stringify(this.$state.tags))
+            if (this.tags.indexOf(tag) === -1) {
+                this.tags.push(tag)
+                localStorage.setItem('TagBucket', JSON.stringify(this.tags))
                 return true
             } else {
                 return false
             }
         },
         getAllTags() {
-            return this.$state.tags
+            return this.tags
         },
         takeTags(count) {
             const tags = [];
-            for(let i=0;i<count; i++) {
-                tags.push(this.$state.tags[i])
+            for(let i = 0; i < count && i < this.tags.length; i++) {
+                tags.push(this.tags[i]);
             }
             return tags;
         }

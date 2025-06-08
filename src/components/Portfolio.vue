@@ -9,8 +9,11 @@
 </template>
 
 <script>
+import "flickrgallery/dist/flickrgallery.css";
 export default {
   name: "Portfolio",
+  components: {
+  },
   props: {},
   data: () => ({
 
