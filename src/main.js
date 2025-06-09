@@ -8,7 +8,8 @@ import "bootstrap";
 import './assets/main.css'
 import { createPinia } from "pinia";
 
-import FlickrGallery from 'FlickrGallery'
+import FlickrGallery from 'flickrgallery'
+import "flickrgallery/dist/flickrgallery.css";
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortawesome/free-brands-svg-icons'

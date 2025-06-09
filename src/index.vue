@@ -6,8 +6,6 @@ import About from "@/components/About.vue";
 import CV from "@/components/CV.vue";
 import Portfolio from "@/components/Portfolio.vue";
 import {useTagBucketStore} from "@/stores/tagbucket.store";
-import FlickrGallery from "FlickrGallery";
-import 'flickrgallery/dist/flickrgallery.css'
 
 import { onMounted, reactive, computed } from 'vue'
 import { useHead } from '@vueuse/head'
@@ -22,7 +20,6 @@ export default {
     Education,
     CV,
     SiteHeader,
-    FlickrGallery,
     About,
     Portfolio,
     Footer,
