@@ -174,6 +174,11 @@ export default {
               <p>Find me here, and feel free to connect</p>
               <ul>
                 <li>
+                  <a href="https://hessen.social/@katzefudder" rel="me" target="_blank">
+                    <font-awesome-icon icon="fa-brands fa-mastodon" />
+                  </a>
+                </li>
+                <li>
                   <a href="https://www.instagram.com/katzefudder/" target="_blank">
                     <font-awesome-icon icon="fa-brands fa-instagram" />
                   </a>

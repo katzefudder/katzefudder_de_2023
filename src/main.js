@@ -12,8 +12,8 @@ import FlickrGallery from 'flickrgallery'
 import "flickrgallery/dist/flickrgallery.css";
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr } from '@fortawesome/free-brands-svg-icons'
-library.add(faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr)
+import { faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr, faMastodon } from '@fortawesome/free-brands-svg-icons'
+library.add(faGithub, faTwitter, faBehance, faInstagram, faLinkedin, faFlickr, faMastodon)
 
 import router from './router.js';
 
