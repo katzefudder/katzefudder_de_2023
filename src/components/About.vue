@@ -42,7 +42,12 @@ export default {
                   </ul>
                 </li>
                 <li>
-                  My photo of the year 2019 on <a href="https://kwerfeldein.de/2020/01/08/eure-wichtigsten-fotos-2019/" target="_blank">Kwerfeldein.de</a>
+                  <p>
+                    <a href="https://www.pavilionbooks.com/authors/ted-bruning/" target="_blank">Ted Bruning</a> uses one of my photos in his book <a href="https://www.amazon.de/Scotch-Whisky-Guide-Ted-Bruning/dp/1913022001" target="_blank">Scotch Whisky: The Essential Guide</a> on page 110-111
+                    <ul>
+                      <FlickrGallery user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="websitewhiskyguide" :useNavigation=false></FlickrGallery>
+                    </ul>
+                  </p>
                 </li>
                 <li>
                   <a href="https://www.heise.de/news/Vom-Sommer-von-Schlangen-und-von-Sportliebhabern-Die-Bilder-der-Woche-KW-47-10179259.html" target="_blank">Vom Sommer, von Schlangen und von Sportliebhabern</a> Photos of the week (47, 2024) on heise.de
@@ -88,11 +93,6 @@ export default {
                 </li>
                    
                 <li>
-                  Zeiss Career uses one of my photos, taken with the Zeiss Distagon T* 25mm f2.8 ZF.2 on Social Media
-                  <a href="https://www.facebook.com/zeisskarriere/photos/pb.193384437386261.-2207520000../4210219679036030/?type=3&theater" target="_blank">Facebook</a>&nbsp;
-                  <a href="https://www.instagram.com/p/CP5pfRNhVb8/" target="_blank">Instagram</a>
-                </li>
-                <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-del2-meistermacher-kommt-93694684.html">
@@ -101,24 +101,13 @@ export default {
                     <Reference link="https://www.del-2.org/news/mike-pellegrims-verlasst-bad-nauheim_8694">
                       Mike Pellegrims verlässt Bad Nauheim
                     </Reference>
-                    <Reference link="https://www.del-2.org/news/vertragsverlangerung-in-bad-nauheim_8640">
-                      Parker Bowles bleibt bei den Roten Teufeln
-                    </Reference>
                     <Reference link="https://del-2.org/news/start-der-testspiele-und-livestreams-auf-sportdeutschlandtv_8385">
                       Start der Testspiele und Livestreams auf Sportdeutschland.TV
-                    </Reference>
-                    <Reference link="https://www.del-2.org/news/konstanz-an-der-trainerbank-der-wolfe_8085">
-                      Konstanz an der Trainerbank der Wölfe
                     </Reference>
                     <Reference link="https://www.del-2.org/news/harry-lange-und-bad-nauheim-gehen-getrennte-wege_8047">
                       Harry Lange und Bad Nauheim gehen getrennte Wege
                     </Reference>
-                    <Reference link="https://del-2.org/news/regelanpassungen-fur-den-del2-spielbetrieb_7846">
-                      Regelanpassungen für den DEL2-Spielbetrieb
-                    </Reference>
-                    <Reference link="https://www.del-2.org/news/tobias-worle-beendet-karriere_7419">
-                      Tobias Wörle beendet Karriere
-                    </Reference>
+                   
                   </ul>
                 </li>
                 <li>
@@ -132,9 +121,6 @@ export default {
                     </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-vom-bundestrainer-einem-neuen-promi-fan-und-einem-comeback-93524300.html">
                       EC Bad Nauheim: Vom Bundestrainer, einem neuen Promi-Fan und einem Comeback
-                    </Reference>
-                    <Reference link="https://www.sonntag-morgenmagazin.eu/smlokales/mahnwache-nach-anschlag-in-butzbach;art2773,1048712">
-                      Mahnwache nach Anschlag in Butzbach
                     </Reference>
                     <Reference link="https://www.stiftung-kupb.de/veranstaltungen/bildnachlese-plakate-transparente/">
                       Butzbach steht auf gegen Rechtsextremismus
@@ -153,15 +139,6 @@ export default {
                     </Reference>
                     <Reference link="https://www.itms.com/de/gesellschaftliches-engagement-erfolgreich-kommunizieren/">
                       ITMS - Gesellschaftliches Engagement erfolgreich kommunizieren
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-vii-sie-sind-von-anfang-an-dabei-92399586.html">
-                      Sommer-Serie (VII): Sie sind von Anfang an dabei
-                    </Reference>
-                    <Reference link="https://www.fnp.de/sport/lokalsport/verteidiger-marius-erk-man-kann-wieder-mit-uns-rechnen-92394804.html">
-                      Verteidiger Marius Erk: »Man kann wieder mit uns rechnen«
-                    </Reference>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/sommer-serie-iii-wie-marcel-brandt-die-fans-elektisieren-konnte-92329707.html">
-                      Wie Marcel Brandt die Fans elektrisieren konnte
                     </Reference>
                   </ul>
                 </li>
