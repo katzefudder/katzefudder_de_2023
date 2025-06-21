@@ -43,7 +43,7 @@ export default {
                 </li>
                 <li>
                   <p>
-                    <a href="https://www.pavilionbooks.com/authors/ted-bruning/" target="_blank">Ted Bruning</a> uses one of my photos in his book <a href="https://www.amazon.de/Scotch-Whisky-Guide-Ted-Bruning/dp/1913022001" target="_blank">Scotch Whisky: The Essential Guide</a> on page 110-111
+                    <a href="https://www.pavilionbooks.com/authors/ted-bruning/" target="_blank">Ted Bruning</a> uses one of my photos in his book <a href="https://www.amazon.com/English-Whisky-journey-grain-glass/dp/0008621551" target="_blank">Scotch Whisky: The Essential Guide</a> on page 110-111
                     <ul>
                       <FlickrGallery user-id="60401789%40N06" api-key="50b2c88d16b7d6765f8c2f9b9bce844f" method="flickr.photos.search" tags="websitewhiskyguide" :useNavigation=false></FlickrGallery>
                     </ul>
