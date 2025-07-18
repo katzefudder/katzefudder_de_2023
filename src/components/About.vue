@@ -113,6 +113,12 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://ec-bn.de/heute-in-der-wz-beamtenstatus-gegen-eishockeyspirit/">
+                      Heute in der WZ: Beamtenstatus gegen Eishockeyspirit
+                    </Reference>
+                    <Reference link="https://ec-bn.de/hiobsbotschaft-christopher-fischer-faellt-lange-aus/">
+                      Hiobsbotschaft: Christopher Fischer fällt lange aus
+                    </Reference>
                     <Reference link="https://www.fnp.de/sport/lokalsport/ec-bad-nauheim-mit-paukenschlag-in-die-sommerpause-93627300.html">
                       EC Bad Nauheim: Mit Paukenschlag in die Sommerpause
                     </Reference>
