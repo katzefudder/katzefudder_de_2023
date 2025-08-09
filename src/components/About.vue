@@ -95,9 +95,6 @@ export default {
                 <li>
                   <a href="https://www.del-2.org" target="_blank">DEL 2</a> uses some of my photos in their publications as well as on social media (in German language):
                   <ul>
-                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-del2-meistermacher-kommt-93694684.html">
-                      EC Bad Nauheim: DEL2-Meistermacher kommt
-                    </Reference>
                     <Reference link="https://www.del-2.org/news/mike-pellegrims-verlasst-bad-nauheim_8694">
                       Mike Pellegrims verlässt Bad Nauheim
                     </Reference>
@@ -113,6 +110,12 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-im-scheinwerferlicht-93872125.html">
+                      EC Bad Nauheim: Im Scheinwerferlicht
+                    </Reference>
+                    <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-del2-meistermacher-kommt-93694684.html">
+                      EC Bad Nauheim: DEL2-Meistermacher kommt
+                    </Reference>
                     <Reference link="https://ec-bn.de/heute-in-der-wz-beamtenstatus-gegen-eishockeyspirit/">
                       Heute in der WZ: Beamtenstatus gegen Eishockeyspirit
                     </Reference>
@@ -154,7 +157,7 @@ export default {
               </ul>
             </div>
             <div class="social">
-              <p>Find me here, and feel free to connect</p>
+              <p>Find me here on social media, happy to connect and hearing from you</p>
               <ul>
                 <li>
                   <a href="https://hessen.social/@katzefudder" rel="me" target="_blank">
