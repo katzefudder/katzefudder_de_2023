@@ -110,6 +110,9 @@ export default {
                 <li>
                   Other sources that use my imagery
                   <ul>
+                    <Reference link="https://www.mittelhessen.de/sport/weitere-sportarten/weitere-sportarten-wetzlar/ec-bad-nauheim-holt-einen-weiteren-torhueter-4730785">
+                      EC Bad Nauheim holt einen weiteren Torhüter
+                    </Reference>
                     <Reference link="https://www.wetterauer-zeitung.de/sport/ec-bad-nauheim/ec-bad-nauheim-im-scheinwerferlicht-93872125.html">
                       EC Bad Nauheim: Im Scheinwerferlicht
                     </Reference>
