@@ -21,13 +21,23 @@
       </div>
       <!-- Summary End -->
        <JobItem
+          date="Since 2013"
+          logo="del2"
+          title="Photographer - DEL 2: Second German Ice Hockey League"
+          link="https://www.del-2.org/fotografen/"
+          position="Voluntary position: Photographer for EC Bad Nauheim"
+          description="Photography at the ice rink: reportage, portraits, action"
+          :jobTags="['Photography', 'Nikon', 'Leica']"
+      >
+      </JobItem>
+       <JobItem
           date="Since August 2025"
           logo="netlution"
           title="Netlution GmbH"
           link="https://netlution.de"
           position="Permanent position: IT Consultant"
           description="IT Consulting"
-          :jobTags="['Cloud Architecture', 'Consulting', 'DevOps', 'Kubernetes', 'Python', 'Observability']"
+          :jobTags="['Cloud Architecture', 'Consulting', 'DevOps', 'Ansible', 'Terraform', 'Kubernetes', 'Python', 'Observability']"
       >
       </JobItem>
       <JobItem
@@ -38,16 +48,6 @@
           position="Permanent position: Senior Consultant"
           description="IT Consulting"
           :jobTags="['Cloud Architecture', 'Consulting', 'DevOps', 'Kubernetes', 'AWS', 'Microsoft Azure', 'Python', 'Serverless', 'Observability']"
-      >
-      </JobItem>
-      <JobItem
-          date="Since 2013"
-          logo="del2"
-          title="Photographer - DEL 2: Second German Ice Hockey League"
-          link="https://www.del-2.org/fotografen/"
-          position="Voluntary position: Photographer for EC Bad Nauheim"
-          description="Photography at the ice rink: reportage, portraits, action"
-          :jobTags="['Photography', 'Nikon', 'Nikon Z 9', 'Nikon D850', 'Nikon Z 6', 'Leica', 'Leica M11']"
       >
       </JobItem>
       <JobItem
