@@ -86,9 +86,6 @@ export default {
                     <Reference link="https://dosbnewmedia.de/news/die-schanner-eishockeyartikel-gmbh-co-kg-wird-mit-ihrer-marke-bauer-hockey-der-exklusive-ausstattungspartner-der-del2-auf-sportdeutschland-tv">
                       Die Schanner Eishockeyartikel GmbH + Co. KG wird mit ihrer Marke BAUER Hockey der exklusive Ausstattungspartner der DEL2 auf Sportdeutschland.TV
                     </Reference>
-                    <Reference link="https://sportdeutschland.tv/ec-bad-nauheim">
-                      EC Bad Nauheim: ALLE SPIELE DER DEL2 LIVE ERLEBEN!
-                    </Reference>
                   </ul>
                 </li>
                    
