@@ -23,7 +23,7 @@
        <JobItem
           date="Since 2013"
           logo="del2"
-          title="Photographer - DEL 2: Second German Ice Hockey League"
+          title="Photographer - DEL 2: Second Tier Ice Hockey League in Germany"
           link="https://www.del-2.org/fotografen/"
           position="Voluntary position: Photographer for EC Bad Nauheim"
           description="Photography at the ice rink: reportage, portraits, action"
