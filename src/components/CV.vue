@@ -8,7 +8,7 @@
           <h2>Professional Summary</h2>
           <span class="summary">
             <p>
-              ​Florian Dehn is a seasoned software engineer and senior consultant working for Netlution GmbH, specializing in cloud architecture, DevOps, and infrastructure as code. 
+              ​Florian Dehn is a seasoned software engineer specializing in cloud architecture, DevOps, and infrastructure as code.
               His technical proficiencies encompass AWS, Kubernetes, Terraform, and various programming languages, including PHP, Python, and Go. 
               Beyond his engineering career, Florian is an accomplished photographer, officially affiliated with <a href="https://www.del-2.org" target="_blank">DEL2</a> and <a href="https://ec-bn.de" target="_blank">EC Bad Nauheim</a>, where he captures dynamic ice rink and action photographs. 
               His unique blend of technical and creative expertise underscores his dedication to excellence across diverse disciplines.​
@@ -31,7 +31,7 @@
       >
       </JobItem>
        <JobItem
-          date="Since August 2025"
+          date="August 2025 - December 2025"
           logo="netlution"
           title="Netlution GmbH"
           link="https://netlution.de"
