@@ -8,14 +8,34 @@
           <h2>Professional Summary</h2>
           <span class="summary">
             <p>
-              ​Florian Dehn is a seasoned software engineer and senior consultant working for Netlution GmbH, specializing in cloud architecture, DevOps, and infrastructure as code. 
-              His technical proficiencies encompass AWS, Kubernetes, Terraform, and various programming languages, including PHP, Python, and Go. 
-              Beyond his engineering career, Florian is an accomplished photographer, officially affiliated with <a href="https://www.del-2.org" target="_blank">DEL2</a> and <a href="https://ec-bn.de" target="_blank">EC Bad Nauheim</a>, where he captures dynamic ice rink and action photographs. 
-              His unique blend of technical and creative expertise underscores his dedication to excellence across diverse disciplines.​
-              <br />
-              He holds a degree in Business Information Systems (Dipl. Wirtschaftsinformatiker FH), 
-              which equips him to seamlessly integrate technical solutions with business needs.
+            ​Florian Dehn is a seasoned software engineer and senior consultant working for Netlution GmbH, specializing in cloud architecture, DevOps, and infrastructure as code. 
+            His technical proficiencies encompass AWS, Kubernetes, Terraform, and various programming languages, including PHP, Python, and Go. 
+            He is a hands-on professional who thrives in collaborative team environments, enjoys diving deep into complex challenges, and is a highly self-driven learner with a strong passion for continuous growth and knowledge expansion.
+            Beyond his engineering career, Florian is an accomplished photographer, officially affiliated with <a href="https://www.del-2.org" target="_blank">DEL2</a> and <a href="https://ec-bn.de" target="_blank">EC Bad Nauheim</a>, where he captures dynamic ice rink and action photographs. 
+            His unique blend of technical and creative expertise underscores his dedication to excellence across diverse disciplines.​
+            <br />
+            He holds a degree in Business Information Systems (Dipl. Wirtschaftsinformatiker FH), 
+            which equips him to seamlessly integrate technical solutions with business needs.
             </p>
+          </span>
+          <h3>Technical Skills & Experience</h3>
+          <span class="tag-cloud">
+            <ul>
+                <li><strong>Linux:</strong> ~16 years</li>
+                <li><strong>AWS (Amazon Web Services):</strong> ~10 years</li>
+                <li><strong>Microsoft Azure:</strong> ~5 years</li>
+                <li><strong>DevOps (methodology & tooling):</strong> ~12 years</li>
+                <li><strong>Container (Docker, Podman):</strong> ~12 years</li>
+                <li><strong>Kubernetes / OpenShift:</strong> ~6 years</li>
+                <li><strong>Monitoring (Prometheus, Grafana, ELK, Icinga, Nagios, CheckMK):</strong> ~10 years</li>
+                <li><strong>IAC (Ansible, Terraform, Chef):</strong> ~10 years</li>
+                <li><strong>CI/CD (GitLab, GitHub Actions, Jenkins, ArgoCD):</strong> ~14 years</li>
+                <li><strong>TYPO3 (PiBase, ExtBase, Flow):</strong> ~10 years</li>
+                <li><strong>PHP (Zend, Symfony, Laravel, PHPUnit, XDebug):</strong> ~18 years</li>
+                <li><strong>Python (Django, Flask, FastAPI):</strong> ~6 years</li>
+                <li><strong>Go:</strong> ~2 years</li>
+                <li><strong>Photography (Nikon, Leica):</strong> ~25 years</li>
+            </ul>
           </span>
         </div>
       </div>
@@ -27,7 +47,7 @@
           link="https://www.del-2.org/fotografen/"
           position="Voluntary position: Photographer for EC Bad Nauheim"
           description="Photography at the ice rink: reportage, portraits, action"
-          :jobTags="['Photography', 'Nikon', 'Leica']"
+          :jobTags="['Photography', 'Social Media', 'Publishing']"
       >
       </JobItem>
        <JobItem
@@ -58,8 +78,12 @@
           position="Permanent position: Senior Cloud Solution Architect"
           description="Providing DevOps experience and know-how to use AWS' products"
           :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Kubernetes', 'RedHat Open Shift', 'Helm', 'ArgoCD', 'VueJs', 'node.js', 'GitHub Actions', 'Dependabot', 'Python', 'PostgreSQL', 'MongoDB', 'Python', 'VueJS']"
-      >
-      </JobItem>
+          >
+          <template #projects>
+            <!-- Anything you put here goes into the named slot -->
+            <Project title="Kubernetes to AWS ECS Fargate" description="Migrating a Kubernetes workload to AWS ECS Fargate"></Project>
+        </template>
+        </JobItem>
       <JobItem
           date="August 2023 - December 2023"
           logo="otto_group"
@@ -187,6 +211,7 @@
 
 <script>
 import JobItem from "@/components/JobItem.vue";
+import Project from "@/components/Project.vue";
 export default {
   name: "Portfolio",
   components: {JobItem},
