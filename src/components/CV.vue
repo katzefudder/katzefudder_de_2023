@@ -79,10 +79,6 @@
           description="Providing DevOps experience and know-how to use AWS' products"
           :jobTags="['AWS', 'ECS Fargate', 'Lambda', 'Cloudwatch', 'IAM', 'VPC', 'EC2', 'SNS', 'SQS', 'Route53' ,'Terraform', 'Kubernetes', 'RedHat Open Shift', 'Helm', 'ArgoCD', 'VueJs', 'node.js', 'GitHub Actions', 'Dependabot', 'Python', 'PostgreSQL', 'MongoDB', 'Python', 'VueJS']"
           >
-          <template #projects>
-            <!-- Anything you put here goes into the named slot -->
-            <Project title="Kubernetes to AWS ECS Fargate" description="Migrating a Kubernetes workload to AWS ECS Fargate"></Project>
-        </template>
         </JobItem>
       <JobItem
           date="August 2023 - December 2023"
