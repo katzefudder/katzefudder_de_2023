@@ -16,6 +16,15 @@ body, html {
     margin: 0;
     padding: 0;
 }
+
+container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
 h1 {
     color: #333;
     font-size: 64px;
