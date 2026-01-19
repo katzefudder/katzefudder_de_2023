@@ -207,7 +207,6 @@
 
 <script>
 import JobItem from "@/components/JobItem.vue";
-import Project from "@/components/Project.vue";
 export default {
   name: "Portfolio",
   components: {JobItem},
