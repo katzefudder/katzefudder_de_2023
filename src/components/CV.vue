@@ -51,7 +51,7 @@
       >
       </JobItem>
        <JobItem
-          date="Since August 2025"
+          date="August 2025 - December 2025"
           logo="netlution"
           title="Netlution GmbH"
           link="https://netlution.de"
