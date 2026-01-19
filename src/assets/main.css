@@ -1,5 +1,10 @@
 @import './base.css';
 
+/* Global layout reset to ensure full-width fit and prevent horizontal offset */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body, html {
     font-family: 'Montserrat', sans-serif;
     text-rendering: optimizeLegibility !important;
@@ -8,6 +13,9 @@ body, html {
     font-weight: 400;
     width: 100% !important;
     height: 100% !important;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 h1 {
     color: #333;
